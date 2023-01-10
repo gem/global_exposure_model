@@ -31,7 +31,16 @@
 
 This repository hosts the exposure model files and summaries for the entire world.
 
-The repository is organised by regions and it includes a dedicated folder for the world statistics and maps.
+The information includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
+
+<p align="center">
+  <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600">
+  <em>Global Exposure Model counts</em>
+
+  <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600">
+  <em>Global Exposure Model macro-taxonomy</em>
+
+</p>
 
 For each country the information includes:
 - Summary of exposure model at national level 
@@ -51,6 +60,10 @@ The `main` branch could contain the work-in-progress of the next version of the 
 
 
 # 🌍 Region and country list
+
+<p align="center">
+  <img src="./World/World_Regions.png" alt="World regions" width="600">
+</p>
 
 The following regions and countries are covered in this repository. 
 
