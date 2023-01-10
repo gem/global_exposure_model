@@ -34,12 +34,13 @@ This repository hosts the exposure model files and summaries for the entire worl
 The information includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
 
 <p align="center">
-  <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600">
-  <em>Global Exposure Model counts</em>
+  <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
+  <em>Global Exposure Model</em>
+</p>
 
-  <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600">
+<p align="center">
+  <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600" >
   <em>Global Exposure Model macro-taxonomy</em>
-
 </p>
 
 For each country the information includes:
