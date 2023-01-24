@@ -12,8 +12,6 @@ Census 2010",,2010,1,,,,
 GEO,Georgia,RES,GEOSTAT 2021,,2021,1,,,,
 GEO,Georgia,"IND, COM","GEOSTAT Business Register 2022 - By regions
 GEOSTAT Business Register 2021 - By kind of economic activity",,2022,1,,,,
-IRN,Iran,RES,,,,,,,,
-IRN,Iran,"IND, COM",,,,,,,,
 IRQ,Iraq,RES,"Iraq Indicators and Figures 2012
 UN-HABITAT Iraq National Housing Policy 2010",,2012,1,,,,
 IRQ,Iraq,"IND, COM","Large Industrial Establishments Statistics 2018
@@ -64,3 +62,16 @@ YEM,Yemen,RES,Statistical Year Book 2017,,2017,1,,,,
 YEM,Yemen,"IND, COM","Statistical Year Book 2017
 Census 2004
 Labour Force Survey 2013-4",,2017,1,,,,
+IRN,Iran,RES,Population and Housing Census,Statistical Centre of Iran (SCI),2011,1,"Dwelling type
+Construction material
+Year of construction",2016,The original census information at ADM1 is in Farsi and was translated with the help of a local collaborator,https://irandataportal.syr.edu/2011-census
+IRN,Iran,COM,"Iran Statistical Yearbooks: 
+Trade, Hotels and Restaurants,
+Transport, Storage and Communications, Culture and Tourism, International Statistics, Labour Force",Statistical Centre of Iran (SCI),2012,1,"Economic sector
+Number of enterprises 
+Size of enterprises
+",2016,,https://irandataportal.syr.edu/socio-economic-data/statistical-yearbook
+IRN,Iran,IND,"Iran Statistical Yearbooks: 
+Mining and Quarrying, Agriculture, Forestry and Fisheries, Water and Electricity, Transport, Storage and Communications, International Statistics, Labour Force",Statistical Centre of Iran (SCI),2012,1,"Industry
+Number of enterprises
+Size of enterprises",2016,,https://irandataportal.syr.edu/socio-economic-data/statistical-yearbook
