@@ -1,84 +1,80 @@
-﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS,,,,,,,,,,,
-BRN,Brunei,RES,Population and Housing Census,"Economic Planning and Development, Prime Minister Office",2011,3,"Type of dwelling
-Construction material of outer wall
-Construction material of roof
+﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS
+BRN,Brunei,RES,Population and Housing Census,"Economic Planning and Development, Prime Minister Office",2011,3,"Type of dwelling,
+Construction material of outer wall,
+Construction material of roof,
 Type of area","2016 Census Update,
-2021 Census",,Requested Data,,,,,,,,,,,
-KHM,Cambodia,RES,Socio - Economic Survey,"National Institute of Statistics, Ministry of Planning",2016,2,"Walls material
-Floor materials
-Roof materials
-Floor area (Average square meters per household)
-Number of rooms
+2021 Census",,Requested Data
+KHM,Cambodia,RES,Socio - Economic Survey,"National Institute of Statistics, Ministry of Planning",2016,2,"Walls material,
+Floor materials,
+Roof materials,
+Floor area (Average sqm per household),
+Number of rooms,
 Type of area",2019 Census,"Private data.
 Bought the HHData for CSES2016","Bought the HHData for CSES2016
-Cambodia Socia Economic Survey 2016",,,,,,,,,,,
-IDN,Indonesia,RES,Population Census,Statistics of Indonesia,2010,3,"Wall material
+Cambodia Socia Economic Survey 2016"
+IDN,Indonesia,RES,Population Census,Statistics of Indonesia,2010,3,"Wall material,
 Type of area","2017 Wall Material,
 2020 Census (Pop only)",,"https://sp2010.bps.go.id/
 
 https://www.bps.go.id/
 http://microdata.bps.go.id/mikrodata/index.php/catalog
-",,,,,,,,,,,
-LAO,Laos,RES,Population and Housing Census,Lao Statistics Bureau,2015,2,"Wall material
-Roof material
-Floor material
+"
+LAO,Laos,RES,Population and Housing Census,Lao Statistics Bureau,2015,2,"Wall material,
+Roof material,
+Floor material,
 Type of area",,,"Population and Housing Census 2015
-http://lsb.gov.la/PDF/PHC-ENG-FNAL-WEB.pdf",,,,,,,,,,,
-MYS,Malaysia,RES,Population and Housing Census,Department of Statistics Malaysia,2010,1,"Outer wall material
-Type of housing unit
-Type of area",2021 Building Inventory,"Table 5: Total housing units by construction material of outer walls, type of housing units, stratum and state, Malaysia, 2010, is available only by stratum and state",https://www.dosm.gov.my/v1/index.php?r=column/cthree&menu_id=cEhBV0xzWll6WTRjdkJienhoR290QT09,,,,,,,,,,,
-MMR,Myanmar,RES,Population and Housing Census,"Ministry of Labour, Immigration and Population",2014,3,"Material for the external walls
-Material for the floors
-Material for the roof
-Type of housing unit
-Type of toilet",2019 Inter-Censal Survey,,http://www.dop.gov.mm/moip/index.php?route=census/state&path=2,,,,,,,,,,,
-PHL,Philippines,RES,Census of Population and Housing,Philippine Statistics Authority,2015,3,"Construction material of the outer walls
-Construction material of roof
-Type of building/house
-State of repair of the building/house 
-When was this building/house built?
-What is the estimated floor area of this housing unit?
+http://lsb.gov.la/PDF/PHC-ENG-FNAL-WEB.pdf"
+MYS,Malaysia,RES,Population and Housing Census,Department of Statistics Malaysia,2010,1,"Outer wall material,
+Type of housing unit,
+Type of area",2021 Building Inventory,"Table 5: Total housing units by construction material of outer walls, type of housing units, stratum and state, Malaysia, 2010, is available only by stratum and state",https://www.dosm.gov.my/v1/index.php?r=column/cthree&menu_id=cEhBV0xzWll6WTRjdkJienhoR290QT09
+MMR,Myanmar,RES,Population and Housing Census,"Ministry of Labour, Immigration and Population",2014,3,"Material for the external walls,
+Material for the floors,
+Material for the roof,
+Type of housing unit,
+Type of toilet",2019 Inter-Censal Survey,,http://www.dop.gov.mm/moip/index.php?route=census/state&path=2
+PHL,Philippines,RES,Census of Population and Housing,Philippine Statistics Authority,2015,3,"Construction material of the outer walls,
+Construction material of roof,
+Type of building/house,
+State of repair of the building/house,
 Type of area",2020 Census (Pop only),"Census also available for 2010.
 Crossed variables found at regional level 2: http://calabarzon.neda.gov.ph/wp-content/uploads/2016/03/RSET2015-Ch.1-PopulationAndHousing.xlsx","https://psa.gov.ph/statistics/census/population-and-housing/2010-CPH
 http://countrystat.psa.gov.ph/
 https://psa.gov.ph/population-and-housing/title/Occupied%20Housing%20Units%20in%20the%20Country%20Increased%20by%204.8%20Million%20%28Results%20from%20the%202010%20Census%20of%20Population%20and%20Housing%29%20
 
-https://www.psa.gov.ph/content/housing-characteristics-philippines-results-2015-census-population",,,,,,,,,,,
-THA,Thailand,RES,Population and Housing Census,National Statistical Office,2010,2,"Type of living quarters (dwelling)
-Construction material
+https://www.psa.gov.ph/content/housing-characteristics-philippines-results-2015-census-population"
+THA,Thailand,RES,Population and Housing Census,National Statistical Office,2010,2,"Type of living quarters (dwelling),
+Construction material,
 Type of area",,Census also available for 2000.,"http://web.nso.go.th/en/census/poph/cen_poph.htm
-http://popcensus.nso.go.th/en/report.php (2010)",,,,,,,,,,,
-VNM,Vietnam,RES,Population and Housing Census,General Statistics Office,2009,1,"Year of construction
-Type of housing
-Type of area",2019 Census,,https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=9813,,,,,,,,,,,
-BRN,Brunei,"IND, COM",Economic Census of enterprises - Preliminary report,Economic Planning and Development - Prime Minister Office,2016,2,Economic Activity,2019 Annual Census of Enterprises,,http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/BEP/Premilinary_rep2016.pdf,,,,,,,,,,,
+http://popcensus.nso.go.th/en/report.php (2010)"
+VNM,Vietnam,RES,Population and Housing Census,General Statistics Office,2009,1,"Year of construction,
+Type of housing,
+Type of area",2019 Census,,https://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=9813
+BRN,Brunei,"IND, COM",Economic Census of enterprises - Preliminary report,Economic Planning and Development - Prime Minister Office,2016,2,Economic Activity,2019 Annual Census of Enterprises,,http://www.depd.gov.bn/DEPD%20Documents%20Library/DOS/BEP/Premilinary_rep2016.pdf
 KHM,Cambodia,"IND, COM","Cambodia Economic Census
 Inter-censal Economic Survey",National Institute of Statistics - Ministry of Planning,2014,2,"Crossed: Ind Activity & Area m2 (national level)
 Kind of business place (house, building etc)*
 (* non-crossed but at province level)
 Distributed with number of workers",,Census also available for 2011.,"http://www.stat.go.jp/english/info/meetings/cambodia/e11f_re1.htm
 http://nada-nis.gov.kh/index.php/catalog/21
-https://www.nis.gov.kh/nis/EC2011/EC2011_Final_Results_Revised.pdf",,,,,,,,,,,
+https://www.nis.gov.kh/nis/EC2011/EC2011_Final_Results_Revised.pdf"
 IDN,Indonesia,"IND, COM",Economic Census,"Statistics of Indonesia
-Statistics Bureau Japan",2016,2,"Economic Activity
-Busincess Scale
-(A report for each province)
-Crossed-var at Province Level
-Non-crossed at Regency level",,,https://www.bps.go.id/publication.html?Publikasi%5BtahunJudul%5D=2016&Publikasi%5BkataKunci%5D=Economic&yt0=Show&page=2,,,,,,,,,,,
-LAO,Laos,"IND, COM",Economic Census,Lao Statistics Bureau,2006,1,"Economic Activity
+Statistics Bureau Japan",2016,2,"Economic Activity,
+Busincess Scale,",,"Report available for each province.
+Crossed-var at Province level, 
+Non-crossed at Regency level",https://www.bps.go.id/publication.html?Publikasi%5BtahunJudul%5D=2016&Publikasi%5BkataKunci%5D=Economic&yt0=Show&page=2
+LAO,Laos,"IND, COM",Economic Census,Lao Statistics Bureau,2006,1,"Economic Activity,
 Number of people employed","2013 Economic Census (scanned pdf only in Laotian),
-2020 Economic Census (scanned pdf only in Laotian)",Scanned pdf only in Laotian for 2020 data,https://www.lsb.gov.la/pdf/Final_report_Economic%20census_2006.pdf,,,,,,,,,,,
-MYS,Malaysia,"IND, COM",Economic Census,Department of Statistics Malaysia,2016,1,"Number of establishments by state/activity
-Size of establishments (national level)/activity
-(Wholesale is not reported)",2021 Building Inventory,Economic Census also available,https://newss.statistics.gov.my/newss-portalx/ep/epFreeDownloadContentSearch.seam?cid=49867,,,,,,,,,,,
+2020 Economic Census (scanned pdf only in Laotian)",Scanned pdf only in Laotian for 2020 data,https://www.lsb.gov.la/pdf/Final_report_Economic%20census_2006.pdf
+MYS,Malaysia,"IND, COM",Economic Census,Department of Statistics Malaysia,2016,1,"Number of establishments by state/activity,
+Size of establishments (national level)/activity,
+(Wholesale is not reported)",2021 Building Inventory,Economic Census also available,https://newss.statistics.gov.my/newss-portalx/ep/epFreeDownloadContentSearch.seam?cid=49867
 MMR,Myanmar,"IND, COM",Business Census (UNDP),United Nations Development Program,"2013,
-2014",3,"Economic Activities
-Number of employees",,,www.mm.undp.org,,,,,,,,,,,
-PHL,Philippines,"IND, COM",Census of business and industry,Philippine Statistics Authority,2015,2,"Type of economic activities
-Number of employees",2018 Census of Philippine Business and Industry,,Requested Data,,,,,,,,,,,
-THA,Thailand,"IND, COM",Business and Industrial Census,National Statistical Office,2012,2,,2016 Business and Industry Statistics,,http://web.nso.go.th/en/census/bi/bi12.htm,,,,,,,,,,,
-VNM,Vietnam,"IND, COM",Survey of non-Farm individual business establishments,General Statistics Office,2015,1,"Type of economic activities
-(Not very useful)","2017 Economic Census (tables extracted from pdf)
+2014",3,"Economic Activities,
+Number of employees",,,www.mm.undp.org
+PHL,Philippines,"IND, COM",Census of business and industry,Philippine Statistics Authority,2015,2,"Type of economic activities,
+Number of employees",2018 Census of Philippine Business and Industry,,Requested Data
+THA,Thailand,"IND, COM",Business and Industrial Census,National Statistical Office,2012,2,,2016 Business and Industry Statistics,,http://web.nso.go.th/en/census/bi/bi12.htm
+VNM,Vietnam,"IND, COM",Survey of non-Farm individual business establishments,General Statistics Office,2015,1,Type of economic activities (Not very useful),"2017 Economic Census (tables extracted from pdf)
 2021 Economic Census (results not released yet)","Tables extracted from pdf (2017 census),
 2021 data not released yet,
-Other information available: Survey of non-Farm individual business establishments",http://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=16063,,,,,,,,,,,
+Other information available: Survey of non-Farm individual business establishments",http://www.gso.gov.vn/default_en.aspx?tabid=515&idmid=5&ItemID=16063
