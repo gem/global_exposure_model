@@ -1,66 +1,66 @@
-﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS,,,,,,,,
+﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS
 ARM,Armenia,RES,"ArmStat Statistical Yearbook 2022
 Population and Housing Census 2011
-UNECE Armenia Housing Study 2010",,2022,1,,,,,,,,,,,,
-ARM,Armenia,"IND, COM","OECD Compendium of Enterprise Statistics Armenia, 2018",,2018,1,,,,,,,,,,,,
-AZE,Azerbaijan,RES,AZSTAT 2021,,2018,1,,,,,,,,,,,,
-AZE,Azerbaijan,"IND, COM","Micro, small and medium entrepreneurship in Azerbaijan 2022",,2022,1,,,,,,,,,,,,
+UNECE Armenia Housing Study 2010",,2022,1,,,,
+ARM,Armenia,"IND, COM","OECD Compendium of Enterprise Statistics Armenia, 2018",,2018,1,,,,
+AZE,Azerbaijan,RES,AZSTAT 2021,,2018,1,,,,
+AZE,Azerbaijan,"IND, COM","Micro, small and medium entrepreneurship in Azerbaijan 2022",,2022,1,,,,
 BHR,Bahrain,RES,"Census 2020
-Census 2010",,2020,1,,,,,,,,,,,,
+Census 2010",,2020,1,,,,
 BHR,Bahrain,"IND, COM","Enterprise Survey, 2006
-Census 2010",,2010,1,,,,,,,,,,,,
-GEO,Georgia,RES,GEOSTAT 2021,,2021,1,,,,,,,,,,,,
+Census 2010",,2010,1,,,,
+GEO,Georgia,RES,GEOSTAT 2021,,2021,1,,,,
 GEO,Georgia,"IND, COM","GEOSTAT Business Register 2022 - By regions
-GEOSTAT Business Register 2021 - By kind of economic activity",,2022,1,,,,,,,,,,,,
-IRN,Iran,RES,,,,,,,,,,,,,,,,
-IRN,Iran,"IND, COM",,,,,,,,,,,,,,,,
+GEOSTAT Business Register 2021 - By kind of economic activity",,2022,1,,,,
+IRN,Iran,RES,,,,,,,,
+IRN,Iran,"IND, COM",,,,,,,,
 IRQ,Iraq,RES,"Iraq Indicators and Figures 2012
-UN-HABITAT Iraq National Housing Policy 2010",,2012,1,,,,,,,,,,,,
+UN-HABITAT Iraq National Housing Policy 2010",,2012,1,,,,
 IRQ,Iraq,"IND, COM","Large Industrial Establishments Statistics 2018
-Medium Industrial Establishments Statistics 2014",,2018,1,,,,,,,,,,,,
+Medium Industrial Establishments Statistics 2014",,2018,1,,,,
 ISR,Israel,RES,"Population and Housing Census 2008
 Construction & housing conditions in Israel 1985-2010
 Construction Survey 2021
 Labour Force Survey 2018
-Statistical Abstract of Israel 2021",,2021,1,,,,,,,,,,,,
-ISR,Israel,"IND, COM",Survey of Industries 2018,,2018,1,,,,,,,,,,,,
+Statistical Abstract of Israel 2021",,2021,1,,,,
+ISR,Israel,"IND, COM",Survey of Industries 2018,,2018,1,,,,
 JOR,Jordan,RES,"Population and Housing Census 2015
-Population and Housing Census 2011",,2015,1,,,,,,,,,,,,
-JOR,Jordan,"IND, COM",Economic Establishments Census 2018,,2018,1,,,,,,,,,,,,
+Population and Housing Census 2011",,2015,1,,,,
+JOR,Jordan,"IND, COM",Economic Establishments Census 2018,,2018,1,,,,
 KWT,Kuwait,RES,"Annual Statistics 2014
 Census 2011
-Population Estimates 2021",,2021,1,,,,,,,,,,,,
+Population Estimates 2021",,2021,1,,,,
 KWT,Kuwait,"IND, COM","Labour Force Survey 2015
 Distribution of Establishments and Employees 1995
-Small and Medium Enterprises in Kuwait 2018",,2018,1,,,,,,,,,,,,
+Small and Medium Enterprises in Kuwait 2018",,2018,1,,,,
 LBN,Lebanon,RES,"Labour Force and Household Living Conditions Survey 2018-2019
-Living Conditions Survey 2007",,2019,1,,,,,,,,,,,,
-LBN,Lebanon,"IND, COM","Census of Buildings, Dwellings, and Establishments 2004",,2004,1,,,,,,,,,,,,
+Living Conditions Survey 2007",,2019,1,,,,
+LBN,Lebanon,"IND, COM","Census of Buildings, Dwellings, and Establishments 2004",,2004,1,,,,
 OMN,Oman,RES,"Census 2010
-Census 2020 - Press release",,2020,1,,,,,,,,,,,,
+Census 2020 - Press release",,2020,1,,,,
 OMN,Oman,"IND, COM","Census 2020 - Press release
-Establishment Census 2010",,2020,1,,,,,,,,,,,,
-PSE,Palestine,RES,Integrating Resilience in Local Governance in West Bank and Gaza (WB&G) project,Urban Planning and Disaster Risk Reduction Center (UPDRRC) of An-Najah National University for Municipal Development and Lending Fund (MDLF),2022,3,,,Data provided from an external project,,,,,,,,,
-PSE,Palestine,"IND, COM",Integrating Resilience in Local Governance in West Bank and Gaza (WB&G) project,Urban Planning and Disaster Risk Reduction Center (UPDRRC) of An-Najah National University for Municipal Development and Lending Fund (MDLF),2022,3,,,Data provided from an external project,,,,,,,,,
+Establishment Census 2010",,2020,1,,,,
+PSE,Palestine,RES,Integrating Resilience in Local Governance in West Bank and Gaza (WB&G) project,Urban Planning and Disaster Risk Reduction Center (UPDRRC) of An-Najah National University for Municipal Development and Lending Fund (MDLF),2022,3,,,Data provided from an external project,
+PSE,Palestine,"IND, COM",Integrating Resilience in Local Governance in West Bank and Gaza (WB&G) project,Urban Planning and Disaster Risk Reduction Center (UPDRRC) of An-Najah National University for Municipal Development and Lending Fund (MDLF),2022,3,,,Data provided from an external project,
 QAT,Qatar,RES,"Main Results of the General Census of Population, Housing, and Establishments 2020
 Census 2015
-Census 1997",,2020,1,,,,,,,,,,,,
+Census 1997",,2020,1,,,,
 QAT,Qatar,"IND, COM","Main Results of the General Census of Population, Housing, and Establishments 2020
 The Annual Bulletin of Building and Construction Statistics 2016
-Census 2015",,2020,1,,,,,,,,,,,,
+Census 2015",,2020,1,,,,
 SAU,Saudi Arabia,RES,"Census 2010
-Census 2020 - Press release",,2020,1,,,,,,,,,,,,
+Census 2020 - Press release",,2020,1,,,,
 SAU,Saudi Arabia,"IND, COM","Establishments Economic Survey 2017
-Census 2010",,2017,1,,,,,,,,,,,,
+Census 2010",,2017,1,,,,
 SYR,Syria,RES,"UN-HABITAT Syria Country Porfile 2016
-World Housing Encyclopedia",,2016,1,,,,,,,,,,,,
-SYR,Syria,"IND, COM",,,,1,,,,,,,,,,,,
+World Housing Encyclopedia",,2016,1,,,,
+SYR,Syria,"IND, COM",,,2019,0,,,National statistics not found; used International Labour Organization (ILO) estimates for 2019,
 ARE,United Arab Emirates,RES,"Census 2005
-Population Statistics 2016",,2016,1,,,,,,,,,,,,
+Population Statistics 2016",,2016,1,,,,
 ARE,United Arab Emirates,"IND, COM","Ministry of Economy Annual Statistical Report 2019
 Ministry of Economy Annual Economic Report 2016
-Statistical Yearbook 2017",,2019,1,,,,,,,,,,,,
-YEM,Yemen,RES,Statistical Year Book 2017,,2017,1,,,,,,,,,,,,
+Statistical Yearbook 2017",,2019,1,,,,
+YEM,Yemen,RES,Statistical Year Book 2017,,2017,1,,,,
 YEM,Yemen,"IND, COM","Statistical Year Book 2017
 Census 2004
-Labour Force Survey 2013-4",,2017,1,,,,,,,,,,,,
+Labour Force Survey 2013-4",,2017,1,,,,
