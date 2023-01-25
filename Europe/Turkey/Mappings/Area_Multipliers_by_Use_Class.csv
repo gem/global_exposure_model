@@ -1,0 +1,17 @@
+﻿Occupancy,Area_Multiplier
+Administrative,3.30
+Agricultural,0.70
+Commercial,1.10
+Cultural,4.00
+Education,5.35
+Healthcare,4.10
+Industrial,2.50
+Other,0.85
+Religious,2.00
+Residential,0.85
+Mostly residential,1.15
+Mostly non-residential,1.25
+Mixed non-residential,3.00
+Social,2.60
+Sports,6.50
+Unknown,1.00

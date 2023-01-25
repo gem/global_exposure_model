@@ -1,0 +1,136 @@
+﻿System,Stories,Dwellings_Per_Building
+Adobe,1,1
+Adobe,2,1
+Adobe,3,2
+Adobe,4,2
+Adobe,5,3
+Adobe,Unknown,1
+Prefabricated structure,1,1
+Prefabricated structure,2,1
+Prefabricated structure,3,2
+Prefabricated structure,Unknown,1
+Briquette / hollow concrete block masonry ,1,1
+Briquette / hollow concrete block masonry ,2,1.25
+Briquette / hollow concrete block masonry ,3,1.5
+Briquette / hollow concrete block masonry ,4,2
+Briquette / hollow concrete block masonry ,5,2
+Briquette / hollow concrete block masonry ,Unknown,1
+Clay brick masonry,1,1
+Clay brick masonry,2,1.25
+Clay brick masonry,3,1.5
+Clay brick masonry,4,2
+Clay brick masonry,5,2
+Clay brick masonry,Unknown,1
+RC or timber frame with adobe infill,1,1
+RC or timber frame with adobe infill,2,1.25
+RC or timber frame with adobe infill,3,1.5
+RC or timber frame with adobe infill,4,2
+RC or timber frame with adobe infill,5,2
+RC or timber frame with adobe infill,Unknown,1
+RC or timber frame with stone masonry infill,1,1
+RC or timber frame with stone masonry infill,2,1.25
+RC or timber frame with stone masonry infill,3,1.5
+RC or timber frame with stone masonry infill,4,2
+RC or timber frame with stone masonry infill,5,2
+RC or timber frame with stone masonry infill,Unknown,1
+Stone masonry,1,1
+Stone masonry,2,1.25
+Stone masonry,3,1.5
+Stone masonry,4,2
+Stone masonry,5,2
+Stone masonry,Unknown,1
+Timber frame,1,1
+Timber frame,2,1.25
+Timber frame,3,1.5
+Timber frame,4,2
+Timber frame,5,2
+Timber frame,Unknown,1
+Timber wall,1,1
+Timber wall,2,1.25
+Timber wall,3,1.5
+Timber wall,4,2
+Timber wall,Unknown,1
+Other wall construction,1,1
+Other wall construction,2,1.25
+Other wall construction,3,1.5
+Other wall construction,4,2
+Other wall construction,5,2
+Other wall construction,Unknown,1
+Unknown wall construction,1,1
+Unknown wall construction,2,1.25
+Unknown wall construction,3,1.5
+Unknown wall construction,4,2
+Unknown wall construction,5,2
+Unknown wall construction,Unknown,1
+RC frame with briquette / hollow concrete block infill,1,1
+RC frame with briquette / hollow concrete block infill,2,2
+RC frame with briquette / hollow concrete block infill,3,4
+RC frame with briquette / hollow concrete block infill,4,6
+RC frame with briquette / hollow concrete block infill,5,8
+RC frame with briquette / hollow concrete block infill,6,15
+RC frame with briquette / hollow concrete block infill,7-9,25
+RC frame with briquette / hollow concrete block infill,10+,50
+RC frame with briquette / hollow concrete block infill,Unknown,1
+RC frame with clay brick masonry infill,1,1
+RC frame with clay brick masonry infill,2,2
+RC frame with clay brick masonry infill,3,4
+RC frame with clay brick masonry infill,4,6
+RC frame with clay brick masonry infill,5,8
+RC frame with clay brick masonry infill,6,15
+RC frame with clay brick masonry infill,7-9,25
+RC frame with clay brick masonry infill,10+,50
+RC frame with clay brick masonry infill,Unknown,1
+RC frame with concrete block infill,1,1
+RC frame with concrete block infill,2,2
+RC frame with concrete block infill,3,4
+RC frame with concrete block infill,4,6
+RC frame with concrete block infill,5,8
+RC frame with concrete block infill,6,15
+RC frame with concrete block infill,7-9,25
+RC frame with concrete block infill,10+,50
+RC frame with concrete block infill,Unknown,1
+Structural steel frame,1,1
+Structural steel frame,2,2
+Structural steel frame,3,4
+Structural steel frame,4,6
+Structural steel frame,5,8
+Structural steel frame,6,15
+Structural steel frame,7-9,25
+Structural steel frame,10+,50
+Structural steel frame,Unknown,1
+Other frame construction,1,1
+Other frame construction,2,2
+Other frame construction,3,4
+Other frame construction,4,6
+Other frame construction,5,8
+Other frame construction,6,15
+Other frame construction,7-9,25
+Other frame construction,10+,50
+Other frame construction,Unknown,1
+Unknown frame construction,1,1
+Unknown frame construction,2,2
+Unknown frame construction,3,4
+Unknown frame construction,4,6
+Unknown frame construction,5,8
+Unknown frame construction,6,15
+Unknown frame construction,7-9,25
+Unknown frame construction,10+,50
+Unknown frame construction,Unknown,1
+Unknown construction,1,1
+Unknown construction,2,2
+Unknown construction,3,4
+Unknown construction,4,6
+Unknown construction,5,8
+Unknown construction,6,15
+Unknown construction,7-9,25
+Unknown construction,10+,50
+Unknown construction,Unknown,1
+Tunnel form system,1,1
+Tunnel form system,2,2
+Tunnel form system,3,4
+Tunnel form system,4,6
+Tunnel form system,5,8
+Tunnel form system,6,15
+Tunnel form system,7-9,25
+Tunnel form system,10+,50
+Tunnel form system,Unknown,1

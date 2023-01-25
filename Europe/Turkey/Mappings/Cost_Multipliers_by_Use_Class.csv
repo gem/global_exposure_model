@@ -1,0 +1,17 @@
+﻿Occupancy,Cost_Multiplier
+Administrative,1.10
+Agricultural,0.80
+Commercial,1.60
+Cultural,1.00
+Education,1.60
+Healthcare,2.00
+Industrial,1.00
+Other,1.00
+Religious,1.00
+Residential,1.20
+Mostly residential,1.30
+Mostly non-residential,1.50
+Mixed non-residential,1.40
+Social,1.00
+Sports,1.00
+Unknown,1.00
