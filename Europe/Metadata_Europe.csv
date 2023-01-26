@@ -1,0 +1,11 @@
+﻿D_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS
+TUR,Türkiye,"RES, COM, IND",Bina Sayımı (Building Census) of Turkey,Başbakanlık Devlet İstatistik Enstitüsü,2000,1,"Occupancy class
+Primary use class
+Number of stories
+Floor areas
+Structural system and primary material of construction
+Decade of construction",,,
+TUR,Türkiye,"RES, COM, IND",Building Permit Statistics,Türkiye İstatistik Kurumu (TÜİK / TurkStat),2001–2020,1,"Occupancy class
+Primary use class
+Year of construction",Annual,,https://biruni.tuik.gov.tr/yapiizin/giris.zul?dil=ing
+TUR,Türkiye,"RES, COM, IND",Address Based Population Registration System (ABPRS),Türkiye İstatistik Kurumu (TÜİK / TurkStat),2020,4,Population,Annual,,https://data.tuik.gov.tr/Bulten/Index?p=The-Results-of-Address-Based-Population-Registration-System-2020-37210&dil=2
