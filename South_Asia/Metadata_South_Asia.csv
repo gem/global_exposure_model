@@ -1,0 +1,47 @@
+﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS,,,,
+AFG,Afghanistan,RES,"Living Conditions Survey, 2016-17
+UN-HABITAT Afghanistan Housing Profile, 2017",Islamic Republic of Afghanistan - Central Statistics Organization,2017,1,"Population
+Housing units
+Construction materials",,,https://reliefweb.int/report/afghanistan/afghanistan-living-conditions-survey-2016-17,,,,
+AFG,Afghanistan,"IND, COM","Business Establishment Survey, 2015",Islamic Republic of Afghanistan - Central Statistics Organization,2015,1,,,,http://documents.worldbank.org/curated/en/627621592297597797/Islamic-Republic-of-Afghanistan-Central-Statistics-Organization-Business-Establishment-Survey-2015,,,,
+BGD,Bangladesh,RES,Population and Housing Census,Bangladesh Bureau of Statistics,2011,2,"Type of dwelling
+Construction material of wall
+Construction material of roof
+Construction material of floor
+Type of area
+Slum dwelling",,,http://203.112.218.69/binbgd/RpWebEngine.exe/Portal?BASE=HPC2011_long,,,,
+BGD,Bangladesh,"IND, COM",Economic Census,Bangladesh Bureau of Statistics,2013,2,Economic Activities,,,http://203.112.218.65:8008/PageWebMenuContent.aspx?MenuKey=534,,,,
+BTN,Bhutan,RES,Population and Housing Census,National Statistics Bureau of Bhutan,2017,2,"Material of wall
+Material of floor
+Material of roof
+Type of area",,,http://www.nsb.gov.bt/publication/publications.php?id=2,,,,
+BTN,Bhutan,"IND, COM",Establishment Census,Ministry of Labour and Human Resources,2010,2,Economic Activities,,,http://www.molhr.gov.bt/molhr/wp-content/uploads/2017/07/Establishment-Census-Report-2010.pdf,,,,
+IND,India,RES,15th Census of India,Office of the Registrar General and Census Commissioner of India,2011,5,"Use of building
+Wall material
+Floor material
+Settlement type (urban / rural)
+Slum dwellings
+",,,https://censusindia.gov.in/census.website/data/census-tables,,,,
+IND,India,"IND, COM",15th Census of India,Office of the Registrar General and Census Commissioner of India,2011,3,"Use of building
+Wall material
+Settlement type (urban / rural)
+
+",,,https://censusindia.gov.in/census.website/data/census-tables,,,,
+LKA,Sri_Lanka,RES,Census of Population and Housing,Department of Census and Statistics of Sri Lanka,2012,2,"Type of housing structure
+Material of wall
+Material of floor
+Material of roof
+Possible info with year of construction (not available online)",,,"http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=Activities/TentativelistofPublications
+http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=Finalhousing&gp=Activities&tpl=3
+Population: http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=P2&gp=Activities&tpl=3",,,,
+LKA,Sri_Lanka,"IND, COM","Economic Census
+Atlas of economic activities",Department of Census and Statistics of Sri Lanka,2013-2014,2,Economic Activities,,,http://www.statistics.gov.lk/Economic/Economic%20Census.html,,,,
+NPL,Nepal,RES,National Population Census,Central Bureau of Statistics of Nepal,2011,4,Material of wall,,,"National Report Census 2011
+http://cbs.gov.np/sectoral_statistics/population/wardlevel",,,,
+NPL,Nepal,"IND, COM",Nepal Labour Force Survey,Central Bureau of Statistics of Nepal,2008,2,Employed population by economic activity,,,http://cbs.gov.np/image/data/Surveys/2015/NLFS-2008%20Report.pdf,,,,
+PAK,Pakistan,RES,"Population and Housing Census 2017
+World Housing Encyclopedia",Pakistan Bureau of Statistics (PBS),2017,1,"Population
+Housing units
+Construction materials
+Period of construction",,,https://www.pbs.gov.pk/content/final-results-census-2017-0,,,,
+PAK,Pakistan,"IND, COM",Economic Survey 2020-21,Pakistan Bureau of Statistics (PBS),2021,1,,,,https://www.pc.gov.pk/uploads/cpec/PES_2020_21.pdf,,,,
