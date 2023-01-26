@@ -27,27 +27,32 @@
 
 # ✨ Overview
 
-> The v2022.0.0 release for the GEM's global exposure model is available! 🥳 🚀
+> The v2023.0.0 release for the GEM's global exposure model is available! 🥳 🚀
 
 This repository hosts the exposure model files and summaries for the entire world.
 
 The information includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
 
-<p align="center">
-  <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
-  <em>Global Exposure Model</em>
-</p>
+<img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
 
-<p align="center">
-  <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600" >
-  <em>Global Exposure Model macro-taxonomy</em>
-</p>
+Global Exposure Model
+
+<img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600" >
+
+Global Exposure Model macro-taxonomy
+
 
 For each country the information includes:
 - Summary of exposure model at national level 
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
-- Figures for buildings and total replacement cost dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
+- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
+- Folder with mapping-schemes used to associated building counts to different building classes)
+
+At regional level, information includes:
+- Metadata
+- Summary of regional counts and summaries per macrotaxonomy
+- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
 
 
 # 🚀 Model versions  
@@ -55,9 +60,11 @@ For each country the information includes:
 Each version of the model that is released can be accessed by changing from the `main` branch to the `tag` of a given version.
 The `main` branch could contain the work-in-progress of the next version of the model.
 
-| Version   | Release Notes                                                                                                                                                                                                                                                                             |
-|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [v2022.0.0](https://gitlab.openquake.org/risk/global_risk_model/global_exposure_model/v2022.0.0) | Improvements of the global exposure model, compared with the original version within the larger 2018 Global Risk Model release.|
+| Version   | Release Notes                                                            |
+|-----------|--------------------------------------------------------------------------|
+| v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
+| [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level.</li><li>Reviewd non-res models to improve spatial distribution</li></ul> |
+| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
 
 
 # 🌍 Region and country list
