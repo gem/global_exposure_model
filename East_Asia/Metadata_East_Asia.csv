@@ -1,4 +1,4 @@
-﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS,,,,
+﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,NOTES,LINKS
 CHN,China,RES,"Sixth National Population Census (2010)
 Province Housing Data Tables (2010)
 County Household Data Tables (2010)
@@ -33,10 +33,10 @@ Shaanxi: http://www.shaanxitj.gov.cn/upload/2018/7/zk/indexee.htm
 Gansu: http://www.gstj.gov.cn/HdAtt/att/2018/03/20180321111139347.rar
 Qinghai: http://www.qhtjj.gov.cn/nj/2017/indexce.htm
 Ningxia: http://www.nxtj.gov.cn/tjsj/ndsj/2017/indexfiles/indexch.htm
-Xinjiang: http://www.xjtj.gov.cn/sjcx/tjnj_3415/",,,,
+Xinjiang: http://www.xjtj.gov.cn/sjcx/tjnj_3415/"
 CHN,China,"IND, COM",Third National Economic Census,National Bureau of Statistics of China,2014,1,Establishments by economic activity,"﻿Dong, L., Yuan, X., Li, M., Ratti, C., & Liu, Y. (2021). A gridded establishment dataset as a proxy for economic activity in China. Scientific Data, 8(1), 1–9. DOI: https://doi.org/10.1038/s41597-020-00792-9
 
-﻿Fan, C., Huang, X., Zhou, L., Gai, Z., Zhu, C., & Zhang, H. (2022). China’s Gridded Manufacturing Dataset. Scientific Data, 9(1), 1–14. DOI: https://doi.org/10.1038/s41597-022-01848-8",,https://data.stats.gov.cn/english/,,,,
+﻿Fan, C., Huang, X., Zhou, L., Gai, Z., Zhu, C., & Zhang, H. (2022). China’s Gridded Manufacturing Dataset. Scientific Data, 9(1), 1–14. DOI: https://doi.org/10.1038/s41597-022-01848-8",,https://data.stats.gov.cn/english/
 HKG,Hong Kong,"RES, COM, IND","Hong Kong Housing Authority Estates
 Hong Kong Housing Society Estates
 Building Management: Database of all Private Buildings in Hong Kong
@@ -45,12 +45,12 @@ Database of “flatted” factories",Various,2020,Bldg,"Building footprint
 Building height
 Building use",Building inventory of Hong Kong,,"https://bmis2.buildingmgt.gov.hk/bd_hadbiex/content/searchbuilding/building_search.jsf?renderedValue=true
 https://data.gov.hk/en-data/dataset/hk-rvd-tsinfo_rvd-names-of-buildings
-https://www.housingauthority.gov.hk/en/global-elements/estate-locator/index.html",,,,
+https://www.housingauthority.gov.hk/en/global-elements/estate-locator/index.html"
 JPN,Japan,RES,Population and Housing Census,Statistics Bureau of Japan,2015,2,"Year of construction
 Type of housing
 Settlement type (urban, rural)
 Number of storeys
-Primary construction material",2020 Population and Housing Census,,https://www.stat.go.jp/english/data/kokusei/2015/summary.html,,,,
+Primary construction material",2020 Population and Housing Census,,https://www.stat.go.jp/english/data/kokusei/2015/summary.html
 JPN,Japan,"IND, COM","2008 Corporations Survey of Buildings
 Building Starts 2008–2020",Statistics Bureau of Japan,2008–2020,2,"Type Of Industry
 Main Usage Of Building
@@ -59,24 +59,24 @@ Floor Space
 Number Of Floors
 Structural Type
 Year Construction",,,"https://www.e-stat.go.jp/en/stat-search/database?page=1&toukei=00600480
-https://www.e-stat.go.jp/en/stat-search/files?tstat=000001016965",,,,
+https://www.e-stat.go.jp/en/stat-search/files?tstat=000001016965"
 KOR,South Korea,RES,Population and Housing Census 2020,Statistics Korea,2020,1,"Population, houses, and housing units
 Housing unit type, area, and household size
-",Available annually,"Wall material data was additionally investigated from the Ministry of Land, Infrastructure and Transport (MOLIT) from 2015",https://kosis.kr/eng/,,,,
+",Available annually,"Wall material data was additionally investigated from the Ministry of Land, Infrastructure and Transport (MOLIT) from 2015",https://kosis.kr/eng/
 KOR,South Korea,"IND, COM",Census of Establishments 2020,Statistics Korea,2020,1,"Number of establishments
-Number of workers",Available annually,,https://kosis.kr/eng/,,,,
+Number of workers",Available annually,,https://kosis.kr/eng/
 MAC,Macao,RES,"15th Population Census and 5th Housing Census of 2011
 Population by-Census of 2016",Statistics and Census Service (DSEC),"2011, 2016",2,"Year of completion
 Number of storeys
-Type of housing",Building inventory of Macao,,https://www.dsec.gov.mo/en-US/Statistic?id=104,,,,
-MAC,Macao,"IND, COM",Macao Industry Overview,Statistics and Census Service (DSEC),2020,2,Number of establishments by sector,Building inventory of Macao,,https://www.dsec.gov.mo/en-US/Statistic?id=8,,,,
+Type of housing",Building inventory of Macao,,https://www.dsec.gov.mo/en-US/Statistic?id=104
+MAC,Macao,"IND, COM",Macao Industry Overview,Statistics and Census Service (DSEC),2020,2,Number of establishments by sector,Building inventory of Macao,,https://www.dsec.gov.mo/en-US/Statistic?id=8
 PRK,North Korea,RES,"Socio-economic, Demographic, and Health Survey 2014
 Population Census 2008",Central Bureau of Statistics (CBS),2014,1,"Population
 Households
 Housing type
-",,Most recent Population Census was in year 2008,https://dprkorea.un.org/en/10162-2014-socio-economic-demographic-and-health-survey,,,,
-PRK,North Korea,"IND, COM",International Labour Organization (ILO),International Labour Organization (ILO),2019,0,,,"Data essentially non-existant, International Labour Organization (ILO) estimates were used",https://www.ilo.org/global/lang--en/index.htm,,,,
+",,Most recent Population Census was in year 2008,https://dprkorea.un.org/en/10162-2014-socio-economic-demographic-and-health-survey
+PRK,North Korea,"IND, COM",International Labour Organization (ILO),International Labour Organization (ILO),2019,0,,,"Data essentially non-existant, International Labour Organization (ILO) estimates were used",https://www.ilo.org/global/lang--en/index.htm
 TWN,Taiwan,RES,Population and Housing Census,"Directorate General of Budget, Accounting and Statistics (DGBAS)",2010,2,"Built period
 Structural material
-Number of floors",2020 Population and Housing Census,,https://census.dgbas.gov.tw/PHC2010/english/rehome.htm,,,,
-TWN,Taiwan,"IND, COM",Industry and Service Census,"Directorate General of Budget, Accounting and Statistics (DGBAS)",2011,2,Number of establishments,2016 Industry and Service Census,,https://eng.stat.gov.tw/News_Content.aspx?n=2395&s=214631,,,,
+Number of floors",2020 Population and Housing Census,,https://census.dgbas.gov.tw/PHC2010/english/rehome.htm
+TWN,Taiwan,"IND, COM",Industry and Service Census,"Directorate General of Budget, Accounting and Statistics (DGBAS)",2011,2,Number of establishments,2016 Industry and Service Census,,https://eng.stat.gov.tw/News_Content.aspx?n=2395&s=214631
