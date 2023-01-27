@@ -104,8 +104,25 @@ The following regions and countries are covered in this repository.
 Please cite the work as follows:
 COMING SOON
 
-See other references publications
-[^1] [^2] [^3] [^4] [^5] [^6] [^7] [^8] [^9] [^10] [^11] [^12] [^13] [^14] [^15] [^16] [^17] 
+## Regional and national models
+- New Zealand: Abbott et al. (2020)[^1]
+- Costa Rica: Calderon et al. (2019)[^2]
+- Central America: Calderon et al. (2022)[^3]
+- Europe: Crowley et al. (2020)[^4]
+- Middle East: Dabbeek and Silva (2020)[^5]
+- Australia: Dunford and Power (2014)[^6]
+- United States: FEMA (2017)[^7]
+- GED4GEM: Gamba et al. (2012)[^8]
+- Canada: Journeay et al. (2022)[^9]
+- China: Ma et al. (2021)[^10]
+- Iran: Motamed at al. (2019)[^11]
+- Pacific Island Countries: PCRAFI initiative[^12]
+- Africa: Paul et al. (2022)[^13]
+- Central Asia: Pittore et al. (2020)[^14]
+- India: Rao et al. (2020)[^15]
+- Turkey: Rao et al. (2021)[^16]
+- South America: Yepes-Estrada et al. (2017)[^17]
+
 <!-- ---
 
 !!!TO BE ADDED!!!
