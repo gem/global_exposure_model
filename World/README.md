@@ -16,7 +16,7 @@
 ### Predominant material of construction
 |                                                       |                                        |
 |-------------------------------------------------------|----------------------------------------|
-| ![Unreinforced masonry](World_Tax_MUR_all.png) 		| ![Adobe or Earth](World_Tax_ADO_E.png) |
+| ![Unreinforced masonry](World_Tax_MUR.png) 		| ![Adobe or Earth](World_Tax_ADO_E.png) |
 | ![Reinforced/Confined masonry](World_Tax_MCF_MR.png)  | ![Wood](World_Tax_W.png) 				 |
 | ![Reinforced concrete](World_Tax_CR.png) 				| ![Others](World_Tax_OT.png) 			 |
 
