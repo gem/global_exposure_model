@@ -26,7 +26,7 @@
 ![](expo_world_occ.png)
 ![](expo_world_taxo.png)
 
-### Continet summaries
+### Continent summaries
 ![](expo_continent_occ.png)
 ![](expo_continent_taxo.png)
 ![](expo_continent.png)

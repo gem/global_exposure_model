@@ -34,24 +34,32 @@ It includes figures, summaries and data for each country, for the region (see [R
 
 <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
 
-Global Exposure Model
+*Global Exposure Model*
 
 <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600" >
 
-Global Exposure Model macro-taxonomy
+*Global Exposure Model macro-taxonomy*
 
 
-For each country the information includes:
-- Summary of exposure model at national level 
+### Available information
+**At country level:**
+- Summary of exposure model at national level
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
-- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
-- Folder with mapping-schemes used to associated building counts to different building classes)
+- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
+- Folder with mapping-schemes used to associate building counts to different building classes
 
-At regional level, information includes:
-- Metadata
+**At regional level:**
+- Metadata for each country in the region
 - Summary of regional counts and summaries per macrotaxonomy
-- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
+- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
+
+**At global level:**
+In the [World](./World) folder you can find
+- Maps for building countss, total replacement cost, and built up area
+- Maps for main construction material
+- World summaries and charts for different exposure metrics
+- Charts for top 20 countries with larger concentration of exposure
 
 
 # 🚀 Model versions  
