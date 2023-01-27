@@ -14,7 +14,7 @@
 <img src='https://img.shields.io/badge/Global_Vulnerability_Model-gray?style=for-the-badge'>
 </a>
 
-<a href='https://risk.pages.gitlab.openquake.org/global_risk_model/Documentation/index.html'>
+<a href='https://www.globalquakemodel.org/gem-maps/global-earthquake-risk-map'>
 <img src='https://img.shields.io/badge/Global_Risk_Model-orange?style=for-the-badge'>
 </a>
 
@@ -29,30 +29,37 @@
 
 > The v2023.0.0 release for the GEM's global exposure model is available! 🥳 🚀
 
-This repository hosts the exposure model files and summaries for the entire world.
-
-The information includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
+This repository hosts the exposure information for the world.
+It includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
 
 <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
 
-Global Exposure Model
+*Global Exposure Model*
 
 <img src="./World/World_Exposure_Taxonomies.gif" alt="Exposure macrotaxonomy" width="600" >
 
-Global Exposure Model macro-taxonomy
+*Global Exposure Model macro-taxonomy*
 
 
-For each country the information includes:
-- Summary of exposure model at national level 
+### Available information
+**At country level:**
+- Summary of exposure model at national level
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
-- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
-- Folder with mapping-schemes used to associated building counts to different building classes)
+- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
+- Folder with mapping-schemes used to associate building counts to different building classes
 
-At regional level, information includes:
-- Metadata
+**At regional level:**
+- Metadata for each country in the region
 - Summary of regional counts and summaries per macrotaxonomy
-- Figures for buildings, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
+- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
+
+**At global level:**
+In the [World](./World) folder you can find
+- Maps for building countss, total replacement cost, and built up area
+- Maps for main construction material
+- World summaries and charts for different exposure metrics
+- Charts for top 20 countries with larger concentration of exposure
 
 
 # 🚀 Model versions  
@@ -64,7 +71,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 |-----------|--------------------------------------------------------------------------|
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level.</li><li>Reviewd non-res models to improve spatial distribution</li></ul> |
-| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
+| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
 
 
 # 🌍 Region and country list
@@ -95,6 +102,30 @@ The following regions and countries are covered in this repository.
 # 📚 Publications
 
 Please cite the work as follows:
+COMING SOON
+
+<details><summary> Regional and national model references</summary>
+
+- New Zealand: Abbott et al. (2020)[^1]
+- Costa Rica: Calderon et al. (2019)[^2]
+- Central America: Calderon et al. (2022)[^3]
+- Europe: Crowley et al. (2020)[^4]
+- Middle East: Dabbeek and Silva (2020)[^5]
+- Australia: Dunford and Power (2014)[^6]
+- United States: FEMA (2017)[^7]
+- GED4GEM: Gamba et al. (2012)[^8]
+- Canada: Journeay et al. (2022)[^9]
+- China: Ma et al. (2021)[^10]
+- Iran: Motamed at al. (2019)[^11]
+- Pacific Island Countries: PCRAFI initiative[^12]
+- Africa: Paul et al. (2022)[^13]
+- Central Asia: Pittore et al. (2020)[^14]
+- India: Rao et al. (2020)[^15]
+- Turkey: Rao et al. (2021)[^16]
+- South America: Yepes-Estrada et al. (2017)[^17]
+</details>
+
+
 <!-- ---
 
 !!!TO BE ADDED!!!
@@ -130,10 +161,32 @@ By default you will see the files in the repository in the  `main` branch. Each 
 Note that the `main` branch could contain the work-in-progress of the next version of the model.
 
 ### How do I download the data for a given version?
-For each version, a realed zip file is availabe: release zip file downloads.
+For each version, a related zip file is availabe: release zip file downloads.
 
 ### Where can I find additional information on the defined building classes?
 
 The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
 
-The building classes defined within this exposure model are mapped to corresponding vulnerability classes, as defined within the Global Vulnerability Model. Additional details regarding the vulnerability building classes can be found [here](https://gitlab.openquake.org/risk/global_risk_model/Vulnerability#%EF%B8%8F-building-classes).
+### Where can I find the models at the highest available resolution?
+
+Please contact us at product@globalquakemodel.org
+
+
+# References:
+[^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
+[^2]: Calderon, A., Silva, V. (2019). Probabilistic seismic vulnerability and loss assessment of the residential building stock in Costa Rica. Bulletin of Earthquake Engineering 17, 1257–1284. Doi: 10.1007/s10518-018-0499-1.
+[^3]: Calderón, A., Silva V, Avilés, M., Méndez, R., Castillo, R., Gil, J., López, M. (2022). Toward a uniform earthquake loss model across Central America. Earthquake Spectra, 38(1):178-199. doi:10.1177/87552930211043894.
+[^4]: Crowley, H., Despotaki, V., Rodrigues, D., Silva, V., Toma-Danila, D., Riga, E., Karatzetzou, A., Fotopoulou, S., Zugic, Z., Sousa, L., Ozcebe, S., Gamba, P. (2020). Exposure model for European seismic risk assessment. Earthquake Spectra, 36(1_suppl), 252–273. doi: 10.1177/8755293020919429.
+[^5]: Dabbeek, J., Silva, V. (2020). Modelling the residential building stock in the Middle East for multi-hazard risk assessment. Natural Hazards 100, 781–810. doi: 10.1007/s11069-019-03842-7.
+[^6]: Dunford, M., Power, L. (2014). National Exposure Information System (NEXIS) Building Exposure - Statistical Area Level 1 (SA1). Geoscience Australia, Canberra, Australia. doi: 10.4225/25/5420C7F537B15.
+[^7]: FEMA, Federal Emergency Management Agency (2017). FEMA P-366: Hazus® Estimated Annualized Earthquake Losses for the United States.
+[^8]: Gamba, P., Cavalca, D., Jaiswal, K., Huyck, C., Crowley, H. (2012). The GED4GEM Project: Development of a Global Exposure Database for the Global Earthquake Model Initiative. Proceedings of the 15th World Conference on Earthquake Engineering, Lisbon, Portugal.
+[^9]: Journeay, M., LeSueur, P., Chow, W., Wagner, C.L. (2022). Physical exposure to natural hazards in Canada: An overview of methods and findings. GEOLOGICAL SURVEY OF CANADA, OPEN FILE 8892. Available at https://doi.org/10.4095/330012.
+[^10]: Ma, J., Rao, A., Silva, V., Lui, K., Wang, M. (2021). A township-level exposure model of residential buildings for mainland China. Nat Hazards 108, 389–423. https://doi.org/10.1007/s11069-021-04689-7
+[^11]: Motamed, H., Calderon, A., Silva, V., Costa, C. (2019). Development of a probabilistic earthquake loss model for Iran. Bulletin of Earthquake Engineering 17, 1795–1823. doi: 10.1007/s10518-018-0515-5.
+[^12]: [Pacific: Catastrophe Risk Assessment and Financing Initiative - PCRAFI](https://pcric.org/)
+[^13]: Paul, N., Silva, V., Amo-Oduro, D. (2022). Development of a uniform exposure model for the African continent for use in disaster risk assessment. International Journal of Disaster Risk Reduction, Volume 71, ISSN 2212-4209. doi: 10.1016/j.ijdrr.2022.102823.
+[^14]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
+[^15]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
+[^16]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
+[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.

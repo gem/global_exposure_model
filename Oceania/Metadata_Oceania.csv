@@ -1,4 +1,4 @@
-ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,LINKS
+ï»¿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,LINKS
 ASM,American Samoa,RES,2010 Census of American Samoa,U.S. Census Bureau,2010,"3, building-by-building",Building-by-building model from HAZUS,https://www.census.gov/data/datasets/2010/dec/american-samoa.html
 ASM,American Samoa,"IND, COM",2010 Census of American Samoa,U.S. Census Bureau,2010,"3, building-by-building",Building-by-building model from HAZUS,https://www.census.gov/data/datasets/2010/dec/american-samoa.html
 AUS,Australia,RES,National Exposure Information System (NEXIS) ,Geoscience Australia,2020,2,"Residence type
@@ -26,8 +26,8 @@ MHL,Marshall Islands,RES,Pacific Catastrophe Risk Assessment and Financing Initi
 MHL,Marshall Islands,"IND, COM",Pacific Catastrophe Risk Assessment and Financing Initiative,Pacific Catastrophe Risk Assessment and Financing Initiative,2011,"1, building-by-building",Building-by-building model from PCRAFI,
 MNP,Northern Mariana Islands,RES,2010 Census of Northern Mariana Islands,U.S. Census Bureau,2010,"1, building-by-building",Building-by-building model from HAZUS,https://www.census.gov/data/datasets/2010/dec/cnmi.html
 MNP,Northern Mariana Islands,"IND, COM",2010 Census of Northern Mariana Islands,U.S. Census Bureau,2010,"1, building-by-building",Building-by-building model from HAZUS,https://www.census.gov/data/datasets/2010/dec/cnmi.html
-NCL,New Caledonia,RES,2014 National census,Institut de la statistique et des études économiques Nouvelle-Calédonie,2014,2,Wall material,https://www.isee.nc/population/recensement
-NCL,New Caledonia,"IND, COM",2014 National census,Institut de la statistique et des études économiques Nouvelle-Calédonie,2014,2,Active population per adm region per economic activity,https://www.isee.nc/population/recensement
+NCL,New Caledonia,RES,2014 National census,Institut de la statistique et des Ãˆtudes Ãˆconomiques Nouvelle-CalÃˆdonie,2014,2,Wall material,https://www.isee.nc/population/recensement
+NCL,New Caledonia,"IND, COM",2014 National census,Institut de la statistique et des Ãˆtudes Ãˆconomiques Nouvelle-CalÃˆdonie,2014,2,Active population per adm region per economic activity,https://www.isee.nc/population/recensement
 NIU,Niue,RES,Pacific Catastrophe Risk Assessment and Financing Initiative; 2011 Census of Population and Households,Pacific Catastrophe Risk Assessment and Financing Initiative; Government of Niue,2011,0,Building-by-building model from PCRAFI,https://sdd.spc.int/digital_library/niue-census-population-and-households-2011
 NIU,Niue,"IND, COM",Pacific Catastrophe Risk Assessment and Financing Initiative,Pacific Catastrophe Risk Assessment and Financing Initiative,2011,0,Building-by-building model from PCRAFI,
 NRU,Nauru,RES,Pacific Catastrophe Risk Assessment and Financing Initiative; 2011 National Census,Pacific Catastrophe Risk Assessment and Financing Initiative; Republic of Nauru,2011,"1, building-by-building",Building-by-building model from PCRAFI; Number of dwellings from census,https://nauru.prism.spc.int/census-2011/census-2011-items
