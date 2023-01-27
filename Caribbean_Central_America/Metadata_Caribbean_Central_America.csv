@@ -1,122 +1,122 @@
-﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,LINKS,,
+﻿ID_0,NAME_0,OCCUPANCY,DATA_SOURCES,PUBLISHER,DATA_YEAR,ADM_LEVEL,VARIABLES,AVAILABLE_UPDATES,LINKS
 ATG,Antigua and Barbuda,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 BHS,Bahamas,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 DMA,Dominica,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 GRD,Grenada,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 KNA,Saint Kitts and Nevis,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 LCA,Saint Lucia,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 VCT,Saint Vincent and the Grenadines,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 ABW,Aruba,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 AIA,Anguilla,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 BLZ,Belize,RES,Population and Housing Census,Statistical Institute of Belize,2010,1,"Dwelling type
 Outer wall construction material
 Main roofing material
-Main flooring material",,https://redatam.org/es/procesar-en-linea/caribe/blz,,
-BLZ,Belize,COM,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Belize,2010,1,Number of estalishments by economic sector,,https://sib.org.bz/,,
-BLZ,Belize,IND,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Belize,2010,1,Number of estalishments by economic sector,,https://sib.org.bz/,,
+Main flooring material",,https://redatam.org/es/procesar-en-linea/caribe/blz
+BLZ,Belize,COM,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Belize,2010,1,Number of estalishments by economic sector,,https://sib.org.bz/
+BLZ,Belize,IND,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Belize,2010,1,Number of estalishments by economic sector,,https://sib.org.bz/
 BRB,Barbados,RES,Population and Housing Census,Barbados Statistical Service,2010,,"Outer wall construction material
-Year of construction",,https://stats.gov.bb/,,
+Year of construction",,https://stats.gov.bb/
 CRI,Costa Rica,RES,Population and Housing Census,Instituto Nacional de Estadisticas y Censos,2011,3,"Dwelling type
 Outer wall construction material
 Main roofing material
 Main flooring material
-Dwelling quality",,https://redatam.org/es/procesar-en-linea/latam/cri,,
+Dwelling quality",,https://redatam.org/es/procesar-en-linea/latam/cri
 CRI,Costa Rica,COM,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas y Censos,2013,2,"Number of establishments by economic sector
-Number of employees per establishment",,https://inec.cr/,,
+Number of employees per establishment",,https://inec.cr/
 CRI,Costa Rica,IND,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas y Censos,2013,2,"Number of establishments by economic sector
-Number of employees per establishment",,https://inec.cr/,,
-CUB,Cuba,RES,Population and Housing Census,Oficina Nacional de Estadisticas,2012,2,Outer wall construction material,,https://redatam.org/es/procesar-en-linea/latam/cub,,
-CUB,Cuba,COM,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2012,1,Number of establishments by economic sector,,http://www.onei.gob.cu/,,
-CUB,Cuba,IND,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2012,1,Number of establishments by economic sector,,http://www.onei.gob.cu/,,
+Number of employees per establishment",,https://inec.cr/
+CUB,Cuba,RES,Population and Housing Census,Oficina Nacional de Estadisticas,2012,2,Outer wall construction material,,https://redatam.org/es/procesar-en-linea/latam/cub
+CUB,Cuba,COM,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2012,1,Number of establishments by economic sector,,http://www.onei.gob.cu/
+CUB,Cuba,IND,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2012,1,Number of establishments by economic sector,,http://www.onei.gob.cu/
 CYM,Cayman Islands,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 DOM,Dominican Republic,RES,Population and Housing Census,Oficina Nacional de Estadisticas,2010,3,"Dwelling type
 Outer wall construction material
-Main flooring material",2019,https://redatam.org/es/procesar-en-linea/latam/dom,,
+Main flooring material",2019,https://redatam.org/es/procesar-en-linea/latam/dom
 DOM,Dominican Republic,COM,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2009,1,"Number of establishments by municipality
-Number of establishments by economic sector",,,,
+Number of establishments by economic sector",,
 DOM,Dominican Republic,IND,"Labor Force Indicators, Directory of Business and Establishments",Oficina Nacional de Estadisticas,2009,1,"Number of establishments by municipality
-Number of establishments by economic sector",,,,
+Number of establishments by economic sector",,
 GLP,Guadeloupe,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,3,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
-GTM,Guatemala,RES,Population and Housing Census,Instituto Nacional de Estadisticas,2002,3,Outer wall construction material,2018,https://redatam.org/es/procesar-en-linea/latam/gtm,,
+Bulding height range",,https://platform.openquake.org/
+GTM,Guatemala,RES,Population and Housing Census,Instituto Nacional de Estadisticas,2002,3,Outer wall construction material,2018,https://redatam.org/es/procesar-en-linea/latam/gtm
 GTM,Guatemala,COM,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas,2002,1,"Number of establishments by province
-Number of establishments by economic sector",,https://www.ine.gob.gt/,,
+Number of establishments by economic sector",,https://www.ine.gob.gt/
 GTM,Guatemala,IND,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas,2002,1,"Number of establishments by province
-Number of establishments by economic sector",,https://www.ine.gob.gt/,,
+Number of establishments by economic sector",,https://www.ine.gob.gt/
 HND,Honduras,RES,Population and Housing Census,Instituto Nacional de Estadisticas,2013,3,"Dwelling type
 Outer wall construction material
-Main flooring material",,https://www.ine.gob.hn/V3/,,
+Main flooring material",,https://www.ine.gob.hn/V3/
 HND,Honduras,COM,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas,2013,3,"Number of establishments by economic sector
-Number of employees per establishment",,https://www.ine.gob.hn/V3/,,
+Number of employees per establishment",,https://www.ine.gob.hn/V3/
 HND,Honduras,IND,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas,2013,3,"Number of establishments by economic sector
-Number of employees per establishment",,https://www.ine.gob.hn/V3/,,
+Number of employees per establishment",,https://www.ine.gob.hn/V3/
 HTI,Haiti,RES,Global Human Settlements Layer,Joint Research Council,2015,4,"Construction Built-up Area
-Urbanization Level",2020,https://ghsl.jrc.ec.europa.eu/download.php,,
+Urbanization Level",2020,https://ghsl.jrc.ec.europa.eu/download.php
 HTI,Haiti,COM,Labour force indicators,"
 Institut Haïtien
-de Statistique et d'Informatique",2016,0,,,https://ihsi.gouv.ht/,,
+de Statistique et d'Informatique",2016,0,,,https://ihsi.gouv.ht/
 HTI,Haiti,IND,Labour force indicators,"
 Institut Haïtien
-de Statistique et d'Informatique",2016,0,,,https://ihsi.gouv.ht/,,
+de Statistique et d'Informatique",2016,0,,,https://ihsi.gouv.ht/
 JAM,Jamaica,RES,Population and Housing Census,Statistical Institute of Jamaica,2011,1,"Outer wall construction material
-Main roofing material",,https://redatam.org/es/procesar-en-linea/caribe/jam,,
+Main roofing material",,https://redatam.org/es/procesar-en-linea/caribe/jam
 JAM,Jamaica,COM,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Jamaica,2011,1,"Number of establishments in the country
-Number of workers per economic sector",,https://statinja.gov.jm/,,
+Number of workers per economic sector",,https://statinja.gov.jm/
 JAM,Jamaica,IND,"Labor Force Indicators, Directory of Business and Establishments",Statistical Institute of Jamaica,2011,1,"Number of establishments in the country
-Number of workers per economic sector",,https://statinja.gov.jm/,,
+Number of workers per economic sector",,https://statinja.gov.jm/
 MSR,Montserrat,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 MTQ,Martinique,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 NIC,Nicaragua,RES,Population and Housing Census,Instituto Nacional de Información de Desarrollo,2005,3,"Outer wall construction material
-Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/nic,,
-NIC,Nicaragua,COM,Labor Force Indicators,Instituto Nacional de Información de Desarrollo,2005,0,Number of workers per economic sector,,https://www.inide.gob.ni/,,
-NIC,Nicaragua,IND,Labor Force Indicators,Instituto Nacional de Información de Desarrollo,2005,0,Number of workers per economic sector,,https://www.inide.gob.ni/,,
+Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/nic
+NIC,Nicaragua,COM,Labor Force Indicators,Instituto Nacional de Información de Desarrollo,2005,0,Number of workers per economic sector,,https://www.inide.gob.ni/
+NIC,Nicaragua,IND,Labor Force Indicators,Instituto Nacional de Información de Desarrollo,2005,0,Number of workers per economic sector,,https://www.inide.gob.ni/
 PAN,Panama,RES,Population and Housing Census,Instituto Nacional de Estadisticas y Censos,2010,3,"Dwelling type
 Outer wall construction material
-Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/pan,,
+Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/pan
 PAN,Panama,COM,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas y Censos,2010,1,"Number of establishments by economic sector
-Number of employees per establishment",,https://www.inec.gob.pa/,,
+Number of employees per establishment",,https://www.inec.gob.pa/
 PAN,Panama,IND,"Labor Force Indicators, Directory of Business and Establishments",Instituto Nacional de Estadisticas y Censos,2010,1,"Number of establishments by economic sector
-Number of employees per establishment",,https://www.inec.gob.pa/,,
+Number of employees per establishment",,https://www.inec.gob.pa/
 SLV,El Salvador,RES,Population and Housing Census,Dirección General de Estadística y Censos,2007,3,"Dwelling type
 Outer wall construction material
-Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/slv,,
-SLV,El Salvador,COM,"Labor Force Indicators, Directory of Business and Establishments",Dirección General de Estadística y Censos,2007,1,Number of establishments by department,,https://www.ine.gob.gt/,,
-SLV,El Salvador,IND,"Labor Force Indicators, Directory of Business and Establishments",Dirección General de Estadística y Censos,2007,1,Number of establishments by department,,https://www.ine.gob.gt/,,
+Main flooring material",,https://redatam.org/es/procesar-en-linea/latam/slv
+SLV,El Salvador,COM,"Labor Force Indicators, Directory of Business and Establishments",Dirección General de Estadística y Censos,2007,1,Number of establishments by department,,https://www.ine.gob.gt/
+SLV,El Salvador,IND,"Labor Force Indicators, Directory of Business and Establishments",Dirección General de Estadística y Censos,2007,1,Number of establishments by department,,https://www.ine.gob.gt/
 TCA,Turks and Caicos Islands,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 TTO,Trinidad and Tobago,RES,Population and Housing Census,Central Statistical Office,2011,1,"Outer wall construction material
-Main roofing material",,https://redatam.org/es/procesar-en-linea/caribe/tto,,
-TTO,Trinidad and Tobago,COM,"Labor Force Indicators, Directory of Business and Establishments",Central Statistical Office,2011,0,Number of workers per economic sector,,https://cso.gov.tt/,,
-TTO,Trinidad and Tobago,IND,"Labor Force Indicators, Directory of Business and Establishments",Central Statistical Office,2011,0,Number of workers per economic sector,,https://cso.gov.tt/,,
+Main roofing material",,https://redatam.org/es/procesar-en-linea/caribe/tto
+TTO,Trinidad and Tobago,COM,"Labor Force Indicators, Directory of Business and Establishments",Central Statistical Office,2011,0,Number of workers per economic sector,,https://cso.gov.tt/
+TTO,Trinidad and Tobago,IND,"Labor Force Indicators, Directory of Business and Establishments",Central Statistical Office,2011,0,Number of workers per economic sector,,https://cso.gov.tt/
 VGB,British Virgin Islands,"RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
 VIR,"Virgin Islands, U.S.","RES, IND, COM",GED4GEM,Global Earthquake Model Foundation,2015,1,"Building construction material
 Building formality
-Bulding height range",,https://platform.openquake.org/,,
+Bulding height range",,https://platform.openquake.org/
