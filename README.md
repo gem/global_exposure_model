@@ -101,8 +101,11 @@ The following regions and countries are covered in this repository.
 
 # 📚 Publications
 
-Please cite the work as follows (coming soon):
+Please cite the work as follows:
+COMING SOON
 
+See other references publications
+[^1] [^2] [^3] [^4] [^5] [^6] [^7] [^8] [^9] [^10] [^11] [^12] [^13] [^14] [^15] [^16] [^17] 
 <!-- ---
 
 !!!TO BE ADDED!!!
@@ -110,26 +113,6 @@ Please cite the work as follows (coming soon):
 [![DOI:10.1177/8755293019899953](http://img.shields.io/badge/DOI-10.1177/8755293019899953-2874A6.svg)](https://doi.org/10.1177/8755293019899953)
 
 --- -->
-
-### References:
-
-[^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
-[^2]: Calderon, A., Silva, V. (2019). Probabilistic seismic vulnerability and loss assessment of the residential building stock in Costa Rica. Bulletin of Earthquake Engineering 17, 1257–1284. Doi: 10.1007/s10518-018-0499-1.
-[^3]: Calderón, A., Silva V, Avilés, M., Méndez, R., Castillo, R., Gil, J., López, M. (2022). Toward a uniform earthquake loss model across Central America. Earthquake Spectra, 38(1):178-199. doi:10.1177/87552930211043894.
-[^4]: Crowley, H., Despotaki, V., Rodrigues, D., Silva, V., Toma-Danila, D., Riga, E., Karatzetzou, A., Fotopoulou, S., Zugic, Z., Sousa, L., Ozcebe, S., Gamba, P. (2020). Exposure model for European seismic risk assessment. Earthquake Spectra, 36(1_suppl), 252–273. doi: 10.1177/8755293020919429.
-[^5]: Dabbeek, J., Silva, V. (2020). Modelling the residential building stock in the Middle East for multi-hazard risk assessment. Natural Hazards 100, 781–810. doi: 10.1007/s11069-019-03842-7.
-[^6]: Dunford, M., Power, L. (2014). National Exposure Information System (NEXIS) Building Exposure - Statistical Area Level 1 (SA1). Geoscience Australia, Canberra, Australia. doi: 10.4225/25/5420C7F537B15.
-[^7]: FEMA, Federal Emergency Management Agency (2017). FEMA P-366: Hazus® Estimated Annualized Earthquake Losses for the United States.
-[^8]: Gamba, P., Cavalca, D., Jaiswal, K., Huyck, C., Crowley, H. (2012). The GED4GEM Project: Development of a Global Exposure Database for the Global Earthquake Model Initiative. Proceedings of the 15th World Conference on Earthquake Engineering, Lisbon, Portugal.
-[^9]: Journeay, M., LeSueur, P., Chow, W., Wagner, C.L. (2022). Physical exposure to natural hazards in Canada: An overview of methods and findings. GEOLOGICAL SURVEY OF CANADA, OPEN FILE 8892. Available at https://doi.org/10.4095/330012.
-[^10]: Ma, J., Rao, A., Silva, V., Lui, K., Wang, M. (2021). A township-level exposure model of residential buildings for mainland China. Nat Hazards 108, 389–423. https://doi.org/10.1007/s11069-021-04689-7
-[^11]: Motamed, H., Calderon, A., Silva, V., Costa, C. (2019). Development of a probabilistic earthquake loss model for Iran. Bulletin of Earthquake Engineering 17, 1795–1823. doi: 10.1007/s10518-018-0515-5.
-[^12]: [PICRAFI](https://pcric.org/)
-[^13]: Paul, N., Silva, V., Amo-Oduro, D. (2022). Development of a uniform exposure model for the African continent for use in disaster risk assessment. International Journal of Disaster Risk Reduction, Volume 71, ISSN 2212-4209. doi: 10.1016/j.ijdrr.2022.102823.
-[^14]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
-[^15]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
-[^16]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
-[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.
 
 
 # 🌟 Contributors 
@@ -164,7 +147,26 @@ For each version, a related zip file is availabe: release zip file downloads.
 
 The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
 
-
 ### Where can I find the models at the highest available resolution?
 
 Please contact us at product@globalquakemodel.org
+
+
+# References:
+[^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
+[^2]: Calderon, A., Silva, V. (2019). Probabilistic seismic vulnerability and loss assessment of the residential building stock in Costa Rica. Bulletin of Earthquake Engineering 17, 1257–1284. Doi: 10.1007/s10518-018-0499-1.
+[^3]: Calderón, A., Silva V, Avilés, M., Méndez, R., Castillo, R., Gil, J., López, M. (2022). Toward a uniform earthquake loss model across Central America. Earthquake Spectra, 38(1):178-199. doi:10.1177/87552930211043894.
+[^4]: Crowley, H., Despotaki, V., Rodrigues, D., Silva, V., Toma-Danila, D., Riga, E., Karatzetzou, A., Fotopoulou, S., Zugic, Z., Sousa, L., Ozcebe, S., Gamba, P. (2020). Exposure model for European seismic risk assessment. Earthquake Spectra, 36(1_suppl), 252–273. doi: 10.1177/8755293020919429.
+[^5]: Dabbeek, J., Silva, V. (2020). Modelling the residential building stock in the Middle East for multi-hazard risk assessment. Natural Hazards 100, 781–810. doi: 10.1007/s11069-019-03842-7.
+[^6]: Dunford, M., Power, L. (2014). National Exposure Information System (NEXIS) Building Exposure - Statistical Area Level 1 (SA1). Geoscience Australia, Canberra, Australia. doi: 10.4225/25/5420C7F537B15.
+[^7]: FEMA, Federal Emergency Management Agency (2017). FEMA P-366: Hazus® Estimated Annualized Earthquake Losses for the United States.
+[^8]: Gamba, P., Cavalca, D., Jaiswal, K., Huyck, C., Crowley, H. (2012). The GED4GEM Project: Development of a Global Exposure Database for the Global Earthquake Model Initiative. Proceedings of the 15th World Conference on Earthquake Engineering, Lisbon, Portugal.
+[^9]: Journeay, M., LeSueur, P., Chow, W., Wagner, C.L. (2022). Physical exposure to natural hazards in Canada: An overview of methods and findings. GEOLOGICAL SURVEY OF CANADA, OPEN FILE 8892. Available at https://doi.org/10.4095/330012.
+[^10]: Ma, J., Rao, A., Silva, V., Lui, K., Wang, M. (2021). A township-level exposure model of residential buildings for mainland China. Nat Hazards 108, 389–423. https://doi.org/10.1007/s11069-021-04689-7
+[^11]: Motamed, H., Calderon, A., Silva, V., Costa, C. (2019). Development of a probabilistic earthquake loss model for Iran. Bulletin of Earthquake Engineering 17, 1795–1823. doi: 10.1007/s10518-018-0515-5.
+[^12]: [PICRAFI](https://pcric.org/)
+[^13]: Paul, N., Silva, V., Amo-Oduro, D. (2022). Development of a uniform exposure model for the African continent for use in disaster risk assessment. International Journal of Disaster Risk Reduction, Volume 71, ISSN 2212-4209. doi: 10.1016/j.ijdrr.2022.102823.
+[^14]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
+[^15]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
+[^16]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
+[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.
