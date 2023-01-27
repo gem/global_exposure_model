@@ -29,9 +29,8 @@
 
 > The v2023.0.0 release for the GEM's global exposure model is available! 🥳 🚀
 
-This repository hosts the exposure model files and summaries for the entire world.
-
-The information includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
+This repository hosts the exposure information for the world.
+It includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
 
 <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
 
@@ -64,7 +63,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 |-----------|--------------------------------------------------------------------------|
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level.</li><li>Reviewd non-res models to improve spatial distribution</li></ul> |
-| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
+| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
 
 
 # 🌍 Region and country list
@@ -130,10 +129,13 @@ By default you will see the files in the repository in the  `main` branch. Each 
 Note that the `main` branch could contain the work-in-progress of the next version of the model.
 
 ### How do I download the data for a given version?
-For each version, a realed zip file is availabe: release zip file downloads.
+For each version, a related zip file is availabe: release zip file downloads.
 
 ### Where can I find additional information on the defined building classes?
 
 The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
 
-The building classes defined within this exposure model are mapped to corresponding vulnerability classes, as defined within the Global Vulnerability Model. Additional details regarding the vulnerability building classes can be found [here](https://gitlab.openquake.org/risk/global_risk_model/Vulnerability#%EF%B8%8F-building-classes).
+
+### Where can I find the models at the smallest available resolution?
+
+Please contact us at product@globalquakemodel.org
