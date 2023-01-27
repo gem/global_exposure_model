@@ -104,7 +104,8 @@ The following regions and countries are covered in this repository.
 Please cite the work as follows:
 COMING SOON
 
-## Regional and national models
+<details><summary> Regional and national model references</summary>
+
 - New Zealand: Abbott et al. (2020)[^1]
 - Costa Rica: Calderon et al. (2019)[^2]
 - Central America: Calderon et al. (2022)[^3]
@@ -122,6 +123,8 @@ COMING SOON
 - India: Rao et al. (2020)[^15]
 - Turkey: Rao et al. (2021)[^16]
 - South America: Yepes-Estrada et al. (2017)[^17]
+</details>
+
 
 <!-- ---
 
