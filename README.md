@@ -46,17 +46,17 @@ It includes figures, summaries and data for each country, for the region (see [R
 - Summary of exposure model at national level
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
-- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type, macrotaxonomy at national level and at the first administrative level
+- Figures for building counts, total replacement cost, and built up area disaggregated per occupancy type, macrotaxonomy at national level and at the first administrative level
 - Folder with mapping-schemes used to associate building counts to different building classes
 
 **At regional level:**
 - Metadata for each country in the region
 - Summary of regional counts and summaries per macrotaxonomy
-- Figures for building countss, total replacement cost, and built up area dissagregated per occupancy type and macrotaxonomy
+- Figures for building counts, total replacement cost, and built up area disaggregated per occupancy type and macrotaxonomy
 
 **At global level:**
 In the [World](./World) folder you can find
-- Maps for building countss, total replacement cost, and built up area
+- Maps for building counts, total replacement cost, and built up area
 - Maps for main construction material
 - World summaries and charts for different exposure metrics
 - Charts for top 20 countries with larger concentration of exposure
@@ -70,7 +70,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 | Version   | Release Notes                                                            |
 |-----------|--------------------------------------------------------------------------|
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
-| [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level.</li><li>Reviewd non-res models to improve spatial distribution</li></ul> |
+| [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-resisential models to improve spatial distribution</li></ul> |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
 
 
@@ -102,30 +102,7 @@ The following regions and countries are covered in this repository.
 # 📚 Publications
 
 Please cite the work as follows:
-COMING SOON
-
-<details><summary> Regional and national model references</summary>
-
-- New Zealand: Abbott et al. (2020)[^1]
-- Costa Rica: Calderon et al. (2019)[^2]
-- Central America: Calderon et al. (2022)[^3]
-- Europe: Crowley et al. (2020)[^4]
-- Middle East: Dabbeek and Silva (2020)[^5]
-- Australia: Dunford and Power (2014)[^6]
-- United States: FEMA (2017)[^7]
-- GED4GEM: Gamba et al. (2012)[^8]
-- Canada: Journeay et al. (2022)[^9]
-- China: Ma et al. (2021)[^10]
-- Iran: Motamed at al. (2019)[^11]
-- Pacific Island Countries: PCRAFI initiative[^12]
-- Africa: Paul et al. (2022)[^13]
-- Central Asia: Pittore et al. (2020)[^14]
-- India: Rao et al. (2020)[^15]
-- Turkey: Rao et al. (2021)[^16]
-- South America: Yepes-Estrada et al. (2017)[^17]
-</details>
-
-
+Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Exposure Modeling for Earthquake Risk Assessment. Under review in Earthquake Spectra.
 <!-- ---
 
 !!!TO BE ADDED!!!
@@ -135,13 +112,35 @@ COMING SOON
 --- -->
 
 
+### Regional and national model references
+
+- Africa: Paul et al. (2022)[^13]
+- Australia: Dunford and Power (2014)[^6]
+- Canada: Journeay et al. (2022)[^9]
+- Central America: Calderon et al. (2022)[^3]
+- Central Asia: Pittore et al. (2020)[^14]
+- China: Ma et al. (2021)[^10]
+- Costa Rica: Calderon et al. (2019)[^2]
+- Europe: Crowley et al. (2020)[^4]
+- GED4GEM: Gamba et al. (2012)[^8]
+- India: Rao et al. (2020)[^15]
+- Iran: Motamed at al. (2019)[^11]
+- Middle East: Dabbeek and Silva (2020)[^5]
+- New Zealand: Abbott et al. (2020)[^1]
+- Pacific Island Countries: PCRAFI initiative[^12]
+- South America: Yepes-Estrada et al. (2017)[^17]
+- Turkey: Rao et al. (2021)[^16]
+- United States: FEMA (2017)[^7]
+
+
+
 # 🌟 Contributors 
 
 The authors are grateful for the input from dozens of local and international experts. A list of contributors can be found at https://www.globalquakemodel.org/risk-model-contributors.
 
 
 # License
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -161,7 +160,7 @@ By default you will see the files in the repository in the  `main` branch. Each 
 Note that the `main` branch could contain the work-in-progress of the next version of the model.
 
 ### How do I download the data for a given version?
-For each version, a related zip file is availabe: release zip file downloads.
+For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
 
 ### Where can I find additional information on the defined building classes?
 
