@@ -70,7 +70,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 | Version   | Release Notes                                                            |
 |-----------|--------------------------------------------------------------------------|
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
-| [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-resisential models to improve spatial distribution</li></ul> |
+| [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-residential models to improve spatial distribution</li></ul> |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
 
 
