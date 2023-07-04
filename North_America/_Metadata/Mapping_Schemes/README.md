@@ -1,4 +1,4 @@
-# Mapping Schemes
+# Canada Mapping Schemes
 The exposure model for Canada is developed by Natural Resources Canada (NRCan) and the mapping schemes used in the development of the model are described in Journeay et al. (2022).
 
 ### References
