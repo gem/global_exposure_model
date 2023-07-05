@@ -24,7 +24,6 @@
 
 </div>
 
-
 # ✨ Overview
 
 > The v2023.1.0 release for the GEM's global exposure model is available! 🥳 🚀
@@ -43,23 +42,23 @@ It includes figures, summaries and data for each country, for the region (see [R
 
 ### Available information
 **At country level:**
-- Summary of exposure model at national level
+- Summary of exposure model at the national level
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
-- Figures for building counts, total replacement cost, and built up area disaggregated per occupancy type, macrotaxonomy at national level and at the first administrative level
-- Folder with mapping-schemes used to associate building counts to different building classes
+- Figures for building counts, total replacement cost, and built-up area disaggregated per occupancy type, macrotaxonomy at the national level and at the first administrative level
+- In the `_Metadata` regional folder, files are available for the mapping schemes used to associate building counts to different building classes
 
 **At regional level:**
 - Metadata for each country in the region
 - Summary of regional counts and summaries per macrotaxonomy
-- Figures for building counts, total replacement cost, and built up area disaggregated per occupancy type and macrotaxonomy
+- Figures for building counts, total replacement cost, and built-up area disaggregated per occupancy type and macrotaxonomy
 
 **At global level:**
 In the [World](./World) folder you can find
-- Maps for building counts, total replacement cost, and built up area
+- Maps for building counts, total replacement cost, and built-up area
 - Maps for main construction material
 - World summaries and charts for different exposure metrics
-- Charts for top 20 countries with larger concentration of exposure
+- Charts for the top 20 countries with a larger concentration of exposure
 
 
 # 🚀 Model versions  
@@ -71,8 +70,8 @@ The `main` branch could contain the work-in-progress of the next version of the 
 |-----------|--------------------------------------------------------------------------|
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-residential models to improve spatial distribution</li></ul> |
-| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
-| [v2023.1.0](https://github.com/gem/global_exposure_model/tree/v2023.1.0) | Exposure models corresponding to the official June 2023 GEM release of the Global Risk Model. Specific modifications include:<ul><li>Canada updated the replacement costs to end-2022 values using the building construction price indexes (BCPI) from StatCan and updated the population and dwelling counts to 2023 Q1 estimates.</li><li>Ecuador and Argentina updated mapping for adobe building only assigned when adobe material is specifically reported in census information). Ecuador also incorporates the urban model for metropolitan Quito.</li><li>Italy changed the masonry unit types used in residential construction</li><li>Switzerland updated floor areas and costs considering the ERM-CH23 model.</li><li>Turkey updated after M7.8_Kahramanmaras-Gaziantep earthquake (destroyed buildings removed and changes in mapping schemes).</li><li>USA major model update considering USACE NSI 2022, HAZUS 6.0, and FEMA P-366 / April 2023.</li><li>Specific countries updated building taxonomies for consistency.</li><li>Minor adjustment to ensure consistent in boundary names.</li><li>Minor adjustments in taxonomy strings for additional GEM vulnerability functions.</li></ul>
+| [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country-specific updates.|
+| [v2023.1.0](https://github.com/gem/global_exposure_model/tree/v2023.1.0) | Exposure models corresponding to the official June 2023 GEM release of the Global Risk Model. Specific modifications include:<ul><li>Canada updated the replacement costs to end-2022 values using the building construction price indexes (BCPI) from StatCan and updated the population and dwelling counts to 2023 Q1 estimates.</li><li>Ecuador and Argentina updated mapping for adobe building, now are assigned only when adobe material is specifically reported in census information. Ecuador also incorporates the urban model for metropolitan Quito.</li><li>Italy changed the masonry unit types used in residential construction</li><li>Switzerland updated floor areas and costs considering the ERM-CH23 model.</li><li>Turkey updated after M7.8_Kahramanmaras-Gaziantep earthquake (destroyed buildings removed and changes in mapping schemes).</li><li>USA major model update considering USACE NSI 2022, HAZUS 6.0, and FEMA P-366 / April 2023.</li><li>Specific countries updated building taxonomies for consistency.</li><li>Minor adjustment to ensure consistency in boundary names.</li><li>Minor adjustments in taxonomy strings for additional GEM vulnerability functions.</li></ul>
 
 # 🌍 Region and country list
 
@@ -109,7 +108,7 @@ Each exposure csv contains the following column headers, as briefly defined belo
 - **ID_2**: ID for the second administrative level
 - **NAME_2**: Name of the second administrative level
 - ⋮
-- **LONGITUDE**, **LATITUDE**: Geographical co-ordinates assigned to the asset for risk calculations. In general, these locations do not represent building-specific geolocations, but are either aggregated at a representative point for the lowest administrative level or are the result of the spatial disaggregation algorithm (and thus still represent aggregated assets, but at a finer resolutio n)
+- **LONGITUDE**, **LATITUDE**: Geographical coordinates assigned to the asset for risk calculations. In general, these locations do not represent building-specific geolocations, but are either aggregated at a representative point for the lowest administrative level or are the result of the spatial disaggregation algorithm (and thus still represent aggregated assets, but at a finer resolution)
 - **OCCUPANCY**: The primary occupancy class: Res for residential, Com for commercial, and Ind for industrial
 - **TAXONOMY**: Building taxonomy string that is used for mapping vulnerability functions for the asset
 - **BUILDINGS**: The total number of buildings comprising the asset
@@ -134,14 +133,8 @@ The building classes defined within this exposure model follow the GEM Taxonomy 
 
 Please cite the work as follows:
 Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. Under review in Earthquake Spectra.
-<!-- ---
 
-!!!TO BE ADDED!!!
-
-[![DOI:10.1177/8755293019899953](http://img.shields.io/badge/DOI-10.1177/8755293019899953-2874A6.svg)](https://doi.org/10.1177/8755293019899953)
-
---- -->
-
+Repository [![DOI](https://zenodo.org/badge/587390618.svg)](https://zenodo.org/badge/latestdoi/587390618)
 
 ### Regional and national model references
 
