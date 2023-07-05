@@ -27,7 +27,7 @@
 
 # ✨ Overview
 
-> The v2023.0.0 release for the GEM's global exposure model is available! 🥳 🚀
+> The v2023.1.0 release for the GEM's global exposure model is available! 🥳 🚀
 
 This repository hosts the exposure information for the world.
 It includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
@@ -72,7 +72,7 @@ The `main` branch could contain the work-in-progress of the next version of the 
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-residential models to improve spatial distribution</li></ul> |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country specific updates.|
-
+| [v2023.1.0](https://github.com/gem/global_exposure_model/tree/v2023.1.0) | Exposure models corresponding to the official June 2023 GEM release of the Global Risk Model. Specific modifications include:<ul><li>Canada updated the replacement costs to end-2022 values using the building construction price indexes (BCPI) from StatCan and updated the population and dwelling counts to 2023 Q1 estimates.</li><li>Ecuador and Argentina updated mapping for adobe building only assigned when adobe material is specifically reported in census information). Ecuador also incorporates the urban model for metropolitan Quito.</li><li>Italy changed the masonry unit types used in residential construction</li><li>Switzerland updated floor areas and costs considering the ERM-CH23 model.</li><li>Turkey updated after M7.8_Kahramanmaras-Gaziantep earthquake (destroyed buildings removed and changes in mapping schemes).</li><li>USA major model update considering USACE NSI 2022, HAZUS 6.0, and FEMA P-366 / April 2023.</li><li>Specific countries updated building taxonomies for consistency.</li><li>Minor adjustment to ensure consistent in boundary names.</li><li>Minor adjustments in taxonomy strings for additional GEM vulnerability functions.</li></ul>
 
 # 🌍 Region and country list
 
@@ -97,12 +97,43 @@ The following regions and countries are covered in this repository.
 | South_Asia                | Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri_Lanka |
 | Southeast_Asia            | Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor_Leste, Vietnam |
 
+# Explanation of exposure model content
+
+## Definition of column headers
+
+Each exposure csv contains the following column headers, as briefly defined below
+
+- **ASSET_ID**: Unique identifier for an asset, which comprises a group of buildings sharing similar attributes and location
+- **ID_1**: ID for the first administrative level, matches either the ID used in the national census or in the administrative division boundary vector files, or both
+- **NAME_1**: Name of the first administrative level
+- **ID_2**: ID for the second administrative level
+- **NAME_2**: Name of the second administrative level
+- ⋮
+- **LONGITUDE**, **LATITUDE**: Geographical co-ordinates assigned to the asset for risk calculations. In general, these locations do not represent building-specific geolocations, but are either aggregated at a representative point for the lowest administrative level or are the result of the spatial disaggregation algorithm (and thus still represent aggregated assets, but at a finer resolutio n)
+- **OCCUPANCY**: The primary occupancy class: Res for residential, Com for commercial, and Ind for industrial
+- **TAXONOMY**: Building taxonomy string that is used for mapping vulnerability functions for the asset
+- **BUILDINGS**: The total number of buildings comprising the asset
+- **TOTAL_AREA_SQM**: The total floor area comprising the asset (sq.m.)
+- **COST_PER_AREA_USD**: The average replacement cost per unit area (in 2021 US$/sq.m., including the structural and nonstructural components, but not the building contents) 
+- **TOTAL_REPL_COST_USD**: The total replacement cost for the asset (in 2021 US$, including the structural, nonstructural components, and building contents) 
+- **COST_STRUCTURAL_USD**: The cost of structural components in each asset
+- **COST_NONSTRUCTURAL_USD**: The cost of nonstructural components in each asset
+- **COST_CONTENTS_USD**: The cost of contents in each asset
+- **OCCUPANTS_PER_ASSET**: The number of residents in each residential asset
+- **OCCUPANTS_PER_ASSET_DAY**: The average number of occupants in each asset (residential, commercial, industrial) during the day time period
+- **OCCUPANTS_PER_ASSET_TRANSIT**: The average number of occupants in each asset (residential, commercial, industrial) during the transit time period
+- **OCCUPANTS_PER_ASSET_NIGHT**: The average number of occupants in each asset (residential, commercial, industrial) during the night time period
+- **OCCUPANTS_PER_ASSET_AVERAGE**: The time-averaged number of occupants in each asset (residential, commercial, industrial) 
+
+## Where can I find additional information on the defined building classes?
+
+The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
 
 
 # 📚 Publications
 
 Please cite the work as follows:
-Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Exposure Modeling for Earthquake Risk Assessment. Under review in Earthquake Spectra.
+Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. Under review in Earthquake Spectra.
 <!-- ---
 
 !!!TO BE ADDED!!!
@@ -161,10 +192,6 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 
 ### How do I download the data for a given version?
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
-
-### Where can I find additional information on the defined building classes?
-
-The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
 
 ### Where can I find the models at the highest available resolution?
 
