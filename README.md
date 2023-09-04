@@ -29,7 +29,7 @@
 > The v2023.1.1 release for the GEM's global exposure model is available! 🥳 🚀
 
 This repository hosts the exposure information for the world.
-It includes figures, summaries and data for each country, for the region (see [Region and country list](#-region-and-country-list)), and for the world.
+It includes figures, summaries and data for each country or territory, for the region (see [Region, country and territory list](#-region-country-and-territory-list)), and for the world.
 
 <img src="./World/World_Exposure.gif" alt="Exposure summary" width="600" >
 
@@ -41,7 +41,7 @@ It includes figures, summaries and data for each country, for the region (see [R
 
 
 ### Available information
-**At country level:**
+**At country and territory level:**
 - Summary of exposure model at the national level
 - Exposure model at the first administrative level
 - Summary of the exposure model aggregated per building class (taxonomy)
@@ -58,7 +58,7 @@ In the [World](./World) folder you can find
 - Maps for building counts, total replacement cost, and built-up area
 - Maps for main construction material
 - World summaries and charts for different exposure metrics
-- Charts for the top 20 countries with a larger concentration of exposure
+- Charts for the top 20 countries and territories with a larger concentration of exposure
 
 
 # 🚀 Model versions  
@@ -71,19 +71,19 @@ The `main` branch could contain the work-in-progress of the next version of the 
 | v2018.0.0 | Original version within the larger 2018 Global Risk Model release.       |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/tree/v2022.0.0) | Improvements of the global exposure model, compared with the v2018.0.0, include: <ul><li>Building counts and replacement costs updated to 2021 values (include updates in dwelling and establishment counts, mapping schemes, average area, number of stories, replacement cost, code and expected ductility level).</li><li>Reviewed non-residential models to improve spatial distribution</li></ul> |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`: Population distributed across day, night, and transit time periods. Few country-specific updates.|
-| [v2023.1.0](https://github.com/gem/global_exposure_model/tree/v2023.1.0) | Exposure models corresponding to the official June 2023 GEM release of the Global Risk Model. Specific modifications include:<ul><li>Canada updated the replacement costs to end-2022 values using the building construction price indexes (BCPI) from StatCan and updated the population and dwelling counts to 2023 Q1 estimates.</li><li>Ecuador and Argentina updated mapping for adobe building, now are assigned only when adobe material is specifically reported in census information. Ecuador also incorporates the urban model for metropolitan Quito.</li><li>Italy changed the masonry unit types used in residential construction</li><li>Switzerland updated floor areas and costs considering the ERM-CH23 model.</li><li>Turkey updated after M7.8_Kahramanmaras-Gaziantep earthquake (destroyed buildings removed and changes in mapping schemes).</li><li>USA major model update considering USACE NSI 2022, HAZUS 6.0, and FEMA P-366 / April 2023.</li><li>Specific countries updated building taxonomies for consistency.</li><li>Minor adjustment to ensure consistency in boundary names.</li><li>Minor adjustments in taxonomy strings for additional GEM vulnerability functions.</li></ul>|
-| [v2023.1.1](https://github.com/gem/global_exposure_model/tree/v2023.1.1) | Add exposure files at Adm1 level for all countries (based on models v2023.1.0) |
+| [v2023.1.0](https://github.com/gem/global_exposure_model/tree/v2023.1.0) | Exposure models corresponding to the official June 2023 GEM release of the Global Risk Model. Specific modifications include:<ul><li>Canada updated the replacement costs to end-2022 values using the building construction price indexes (BCPI) from StatCan and updated the population and dwelling counts to 2023 Q1 estimates.</li><li>Ecuador and Argentina updated mapping for adobe building, now are assigned only when adobe material is specifically reported in census information. Ecuador also incorporates the urban model for metropolitan Quito.</li><li>Italy changed the masonry unit types used in residential construction</li><li>Switzerland updated floor areas and costs considering the ERM-CH23 model.</li><li>Turkey updated after M7.8_Kahramanmaras-Gaziantep earthquake (destroyed buildings removed and changes in mapping schemes).</li><li>USA major model update considering USACE NSI 2022, HAZUS 6.0, and FEMA P-366 / April 2023.</li><li>Specific countries and territories updated building taxonomies for consistency.</li><li>Minor adjustment to ensure consistency in boundary names.</li><li>Minor adjustments in taxonomy strings for additional GEM vulnerability functions.</li></ul>|
+| [v2023.1.1](https://github.com/gem/global_exposure_model/tree/v2023.1.1) | Add exposure files at Adm1 level for all countries and territories (based on models v2023.1.0) |
 
-# 🌍 Region and country list
+# 🌍 Region, country and territory list
 
 <p align="center">
   <img src="./World/World_Regions.png" alt="World regions" width="600">
 </p>
 
-The following regions and countries are covered in this repository. 
+The following regions, countries and territories are covered in this repository. 
 
-| REGION                    | COUNTRIES |
-|---------------------------|-----------|
+| REGION                    | COUNTRIES AND TERRITORIES |
+|---------------------------|---------------------------|
 | Africa                    | Algeria, Angola, Benin, Botswana, Burkina_Faso, Burundi, Cameroon, Cape_Verde, Central_African_Republic, Chad, Comoros, Congo, Democratic_Republic_of_the_Congo, Djibouti, Egypt, Equatorial_Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea_Bissau, Ivory_Coast, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao_Tome_and_Principe, Senegal, Seychelles, Sierra_Leone, Somalia, South_Africa, South_Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe |
 | Caribbean_Central_America | Anguilla, Antigua_and_Barbuda, Aruba, Bahamas, Barbados, Belize, British_Virgin_Islands, Cayman_Islands, Costa_Rica, Cuba, Dominica, Dominican_Republic, El_Salvador, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Puerto_Rico, Saint_Kitts_and_Nevis, Saint_Lucia, Saint_Vincent_and_the_Grenadines, Trinidad_and_Tobago, Turks_and_Caicos_Islands, US_Virgin_Islands |
 | Central_Asia              | Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan |
