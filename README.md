@@ -39,8 +39,8 @@ It includes figures, summaries and data for each country or territory, for the r
 
 *Global Exposure Model macro-taxonomy*
 
-
 ### Available information
+
 **At country and territory level:**
 - Summary of exposure model at the national level
 - Exposure model at the first administrative level
@@ -101,7 +101,7 @@ The following regions, countries and territories are covered in this repository.
 
 ## Definition of column headers
 
-Each exposure csv contains the following column headers, as briefly defined below
+Each exposure `csv` contains the following column headers, as briefly defined below
 
 - **ASSET_ID**: Unique identifier for an asset, which comprises a group of buildings sharing similar attributes and location
 - **ID_1**: ID for the first administrative level, matches either the ID used in the national census or in the administrative division boundary vector files, or both
@@ -128,7 +128,6 @@ Each exposure csv contains the following column headers, as briefly defined belo
 ## Where can I find additional information on the defined building classes?
 
 The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
-
 
 # 📚 Publications
 
@@ -157,12 +156,9 @@ Repository [![DOI](https://zenodo.org/badge/587390618.svg)](https://zenodo.org/b
 - Turkey: Rao et al. (2021)[^16]
 - United States: FEMA (2017)[^7]
 
-
-
 # 🌟 Contributors 
 
 The authors are grateful for the input from dozens of local and international experts. A list of contributors can be found at https://www.globalquakemodel.org/risk-model-contributors.
-
 
 # License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -176,11 +172,10 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-
 # 🤔 Frequently asked questions 
 
 ### Which version am I seeing? How to change the version?
-By default you will see the files in the repository in the  `main` branch. Each version of the model that is released can be accessed is marked with a `tag`. By changing the tag version at the top of the repository, you can change see the files for a given version.
+By default, you will see the files in the repository in the  `main` branch. Each version of the model that is released is marked with a `tag`. By changing the tag version at the top of the repository, you can see the files for a given version.
 
 Note that the `main` branch could contain the work-in-progress of the next version of the model.
 
@@ -190,7 +185,6 @@ For each version, a related zip file is available in the [release section](https
 ### Where can I find the models at the highest available resolution?
 
 Please contact us at product@globalquakemodel.org
-
 
 # References:
 [^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
@@ -209,4 +203,4 @@ Please contact us at product@globalquakemodel.org
 [^14]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
 [^15]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
 [^16]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
-[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.
+[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi:10.1193/101915eqs155dp.
