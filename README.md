@@ -132,7 +132,7 @@ The building classes defined within this exposure model follow the GEM Taxonomy 
 # 📚 Publications
 
 Please cite the work as follows:
-Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. Under review in Earthquake Spectra.
+Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. _Earthquake Spectra_. doi:[10.1177/87552930231194048](https://doi.org/10.1177/87552930231194048)
 
 Repository [![DOI](https://zenodo.org/badge/587390618.svg)](https://zenodo.org/badge/latestdoi/587390618)
 
