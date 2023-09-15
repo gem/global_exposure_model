@@ -182,6 +182,10 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 ### How do I download the data for a given version?
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
 
+### Administrative regions 
+
+The exposure models use the names of the administrative regions available in census information, when available. However, depending on the available source data and time at which models are derived, the information may differ from the _current_ regions. Specific countries could use reference names from GADM, OpenStreetMap or geoBuondaries depending on the region, country or territory. GEM does not provide an associated geometry file and leaves up to the user’s discression the selection of the appropriate files.
+
 ### Where can I find the models at the highest available resolution?
 
 Please contact us at product@globalquakemodel.org
