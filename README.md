@@ -184,7 +184,7 @@ For each version, a related zip file is available in the [release section](https
 
 ### Administrative regions 
 
-The exposure models use the names of the administrative regions available in census information, when available. However, depending on the available source data and time at which models are derived, the information may differ from the _current_ regions. Specific countries could use reference names from GADM, OpenStreetMap or geoBuondaries depending on the region, country or territory. GEM does not provide an associated geometry file and leaves up to the user’s discression the selection of the appropriate files.
+The exposure models typically use the names of the administrative regions available in each country's census information, when available. However, depending on the available source data and base year for which the models are derived, the number of first-level administrative divisions and their names may differ from the _current_ divisions and names for each country. GEM does not provide associated boundary files.
 
 ### Where can I find the models at the highest available resolution?
 
