@@ -132,7 +132,7 @@ The building classes defined within this exposure model follow the GEM Taxonomy 
 # 📚 Publications
 
 Please cite the work as follows:
-Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. Under review in Earthquake Spectra.
+Yepes-Estrada, C., Calderon, A., Costa, C., Crowley, H., Dabbeek, J., Hoyos, M., Martins, L., Paul, N., Rao, A., Silva, V. (2023). Global Building Exposure Model for Earthquake Risk Assessment. _Earthquake Spectra_. doi:[10.1177/87552930231194048](https://doi.org/10.1177/87552930231194048)
 
 Repository [![DOI](https://zenodo.org/badge/587390618.svg)](https://zenodo.org/badge/latestdoi/587390618)
 
@@ -181,6 +181,10 @@ Note that the `main` branch could contain the work-in-progress of the next versi
 
 ### How do I download the data for a given version?
 For each version, a related zip file is available in the [release section](https://github.com/gem/global_exposure_model/releases).
+
+### Administrative regions 
+
+The exposure models typically use the names of the administrative regions available in each country's census information, when available. However, depending on the available source data and base year for which the models are derived, the number of first-level administrative divisions and their names may differ from the _current_ divisions and names for each country. GEM does not provide associated boundary files.
 
 ### Where can I find the models at the highest available resolution?
 
