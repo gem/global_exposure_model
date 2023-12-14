@@ -127,7 +127,17 @@ Each exposure `csv` contains the following column headers, as briefly defined be
 
 ## Where can I find additional information on the defined building classes?
 
-The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
+The building classes defined within this exposure model follow the GEM Taxonomy v3.2 convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings and the `Taxonomy_tables_v3.2.xlsx` available [here](https://github.com/gem/gem_taxonomy/tree/master).
+
+# 👨‍👩‍👧‍👦 Related datasets and resources
+
+Users interested in the global exposure model might find the following GEM Foundation products useful:
+
+* [Global Exposure Model](https://www.globalquakemodel.org/product/global-exposure-model)
+* [Global Seismic Risk Map](https://www.globalquakemodel.org/products/global-seismic-risk-map)
+* [Global Seismic Hazard Map](https://www.globalquakemodel.org/product/global-seismic-hazard-map)
+* [Global Vulnerability Model](https://www.globalquakemodel.org/product/global-vulnerability-model)
+* [OpenQuake engine](https://www.globalquakemodel.org/product/openquake-engine)
 
 # 📚 Publications
 
