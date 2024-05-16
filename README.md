@@ -174,13 +174,19 @@ The authors are grateful for the input from dozens of local and international ex
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa], which requires:
+
+* Attribution (you must give appropriate credit, provide a link to the license, and indicate if changes were made)
+* Non-commercial (you may not use the material for commercial purposes)
+* ShareAlike (derivatives created must be made available under the same license as the original)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+Any deviation from these terms incur in license infringement. For commercial use of the data contained within this work, a specific license agreement must be made tailored to your use case, in such instance please contact GEM at product@globalquakemodel.org
 
 # 🤔 Frequently asked questions 
 
@@ -199,6 +205,10 @@ The exposure models typically use the names of the administrative regions availa
 ### Where can I find the models at the highest available resolution?
 
 Please contact us at product@globalquakemodel.org
+
+### What if my use case does not comply with the Creative Commons license offered?
+
+If your use case deviates from the requirements of the offered license, but still want to explore the use of the data, please contact us at license@globalquakemodel.org 
 
 # References:
 [^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
