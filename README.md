@@ -104,26 +104,27 @@ The following regions, countries and territories are covered in this repository.
 Each exposure `csv` contains the following column headers, as briefly defined below
 
 - **ASSET_ID**: Unique identifier for an asset, which comprises a group of buildings sharing similar attributes and location
-- **ID_1**: ID for the first administrative level, matches either the ID used in the national census or in the administrative division boundary vector files, or both
-- **NAME_1**: Name of the first administrative level
-- **ID_2**: ID for the second administrative level
-- **NAME_2**: Name of the second administrative level
-- ⋮
-- **LONGITUDE**, **LATITUDE**: Geographical coordinates assigned to the asset for risk calculations. In general, these locations do not represent building-specific geolocations, but are either aggregated at a representative point for the lowest administrative level or are the result of the spatial disaggregation algorithm (and thus still represent aggregated assets, but at a finer resolution)
-- **OCCUPANCY**: The primary occupancy class: Res for residential, Com for commercial, and Ind for industrial
-- **TAXONOMY**: Building taxonomy string that is used for mapping vulnerability functions for the asset
-- **BUILDINGS**: The total number of buildings comprising the asset
-- **TOTAL_AREA_SQM**: The total floor area comprising the asset (sq.m.)
-- **COST_PER_AREA_USD**: The average replacement cost per unit area (in 2021 US$/sq.m., including the structural and nonstructural components, but not the building contents) 
-- **TOTAL_REPL_COST_USD**: The total replacement cost for the asset (in 2021 US$, including the structural, nonstructural components, and building contents) 
-- **COST_STRUCTURAL_USD**: The cost of structural components in each asset
-- **COST_NONSTRUCTURAL_USD**: The cost of nonstructural components in each asset
+- **BUILDINGS**: The total number of buildings comprising the asset. A building unit is defined as a permanent, separate, and independent structure designed to serve any activity. For constructions comprising blocks, terraced buildings, or buildings enclosed by common fencing, a building unit refers to the superstructure that is structurally designed to respond independently under seismic loads
 - **COST_CONTENTS_USD**: The cost of contents in each asset
+- **COST_NONSTRUCTURAL_USD**: The cost of nonstructural components in each asset
+- **COST_PER_AREA_USD**: The average replacement cost per unit area (in 2021 US$/sq.m., including the structural and nonstructural components, but not the building contents) 
+- **COST_STRUCTURAL_USD**: The cost of structural components in each asset
+- **DWELLING**: A self-contained residential space within a building designed for habitation by one or more individuals or families. For example, a multi-story residential building is comprised of numerous dwelling units, such as multiple apartments within the same structure. Conversely, in a single-family detached unit, the number of dwelling units and buildings is the same
+- **ESTABLISHMENT**: A single physical location where economic activities occur (e.g., services or industrial operations). An establishment is often characterized by having a specific address, management, and operational control, distinct from other units of the same company or organization.
+- **ID_1**: ID for the first administrative level, matches either the ID used in the national census, the administrative division boundary vector files, or both
+- **ID_i**: ID for the administrative level `i` 
+- **NAME_1**: Name of the first administrative level
+- **NAME_i**: Name of the administrative level `i` 
+- **LONGITUDE**, **LATITUDE**: Geographical coordinates assigned to the asset for risk calculations. In general, these locations do not represent building-specific geolocations, but are either aggregated at a representative point for the lowest administrative level or are the result of the spatial disaggregation algorithm (and thus still represent aggregated assets, but at a finer resolution)
+- **OCCUPANCY**: The primary occupancy class: `Res` for residential, `Com` for commercial, and `Ind` for industrial
 - **OCCUPANTS_PER_ASSET**: The number of residents in each residential asset
-- **OCCUPANTS_PER_ASSET_DAY**: The average number of occupants in each asset (residential, commercial, industrial) during the day time period
-- **OCCUPANTS_PER_ASSET_TRANSIT**: The average number of occupants in each asset (residential, commercial, industrial) during the transit time period
-- **OCCUPANTS_PER_ASSET_NIGHT**: The average number of occupants in each asset (residential, commercial, industrial) during the night time period
 - **OCCUPANTS_PER_ASSET_AVERAGE**: The time-averaged number of occupants in each asset (residential, commercial, industrial) 
+- **OCCUPANTS_PER_ASSET_DAY**: The average number of occupants in each asset (residential, commercial, industrial) during the daytime period
+- **OCCUPANTS_PER_ASSET_NIGHT**: The average number of occupants in each asset (residential, commercial, industrial) during the nighttime period
+- **OCCUPANTS_PER_ASSET_TRANSIT**: The average number of occupants in each asset (residential, commercial, industrial) during the transit time period
+- **TAXONOMY**: Building taxonomy string that is used for mapping vulnerability functions for the asset
+- **TOTAL_AREA_SQM**: The total floor area comprising the asset (sq.m.)
+- **TOTAL_REPL_COST_USD**: The total replacement cost for the asset (in 2021 US$, including the structural, nonstructural components, and building contents) 
 
 ## Where can I find additional information on the defined building classes?
 
