@@ -109,7 +109,7 @@ Each exposure `csv` contains the following column headers, as briefly defined be
 - **COST_NONSTRUCTURAL_USD**: The cost of nonstructural components in each asset
 - **COST_PER_AREA_USD**: The average replacement cost per unit area (in 2021 US$/sq.m., including the structural and nonstructural components, but not the building contents) 
 - **COST_STRUCTURAL_USD**: The cost of structural components in each asset
-- **DWELLING**: A self-contained residential space within a building that is designed for habitation by one or more individuals or families. A dwelling can be a collection of rooms, or an individual room, which are designated for living by the building authorities
+- **DWELLING**: A self-contained residential space within a building designed for habitation by one or more individuals or families. For example, a multi-story residential building is comprised of numerous dwelling units, such as multiple apartments within the same structure. Conversely, in a single-family detached unit, the number of dwelling units and buildings is the same
 - **ESTABLISHMENT**: A single physical location where economic activities occur (e.g., services or industrial operations). An establishment is often characterized by having a specific address, management, and operational control, distinct from other units of the same company or organization.
 - **ID_1**: ID for the first administrative level, matches either the ID used in the national census, the administrative division boundary vector files, or both
 - **ID_i**: ID for the administrative level `i` 
