@@ -111,7 +111,7 @@ Within each regional directory, detailed descriptions of model updates and revis
 
 | Version   | Release Notes |
 | --------- | -------------- |
-| [v2026.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2025.0.0) | Official GEM 2026 Global Release. Major update. See summary of changes in [whats-new.md](./whats-new.md). |
+| [v2026.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2025.0.0) | Official GEM 2026 Global Release. Major update. See summary of changes in [CHANGELOG.md](./CHANGELOG.md). |
 | [v2025.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2025.0.0) | Internal release adding updated country models |
 | [v2023.1.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2023.1.0) | Official June 2023 GEM Global Risk Model release. Updates include taxonomy consistency improvements, boundary-name revisions, exposure spatially disaggregated for many countries. |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`, introducing population distribution across day, night, and transit periods, together with a small number of country-specific updates. |
