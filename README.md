@@ -38,7 +38,7 @@ GEM's Global Exposure Model covers 215 countries and territories. Exposure model
 ### 👥 Population and Building classes
   - 📍 Around 50% of the world population (~4.1 billion people) lives in areas exposed to moderate to high levels of seismic hazard (PGA > 0.10g on rock).
   - 🏠 Almost half of the buildings in the world are made of unreinforced masonry (26%) or wood (20%).
-  - 🇮🇳 India is the country that concentrates the largest number of buiuldings (264 million)
+  - 🇮🇳 India is the country that concentrates the largest number of buildings (264 million)
   
 ### 💰 Economic value of Buildings
   - 🔢 $304 trillion is the estimated total replacement cost of buildings (residential, commercial and industrial) worldwide, based on our latest risk models.
