@@ -38,7 +38,7 @@ GEM's Global Exposure Model covers 215 countries and territories. Exposure model
 ### 👥 Population and Building classes
   - 📍 Around 50% of the world population (~4.1 billion people) lives in areas exposed to moderate to high levels of seismic hazard (PGA > 0.10g on rock).
   - 🏠 Almost half of the buildings in the world are made of unreinforced masonry (26%) or wood (20%).
-  - 🇮🇳 India is the country that concentrates the largest number of buildings (264 million)
+  - 🇮🇳 India accounts for the largest share of the global building stock, with an estimated 264 million buildings.
   
 ### 💰 Economic value of Buildings
   - 🔢 $304 trillion is the estimated total replacement cost of buildings (residential, commercial and industrial) worldwide, based on our latest risk models.
@@ -75,20 +75,20 @@ _Figure: Mosaic of exposure and risk regions_
 
   <summary>👀 click to see country list</summary>
 
-    | REGION                    | COUNTRIES |
-    |---------------------------|-----------|
-    | Africa                    | Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe |
-    | Caribbean Central America | Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, British Virgin Islands, Cayman Islands, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, US Virgin Islands |
-    | Central Asia              | Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan |
-    | East Asia                 | China, Hong Kong, Japan, Macao, North Korea, South Korea, Taiwan |
-    | Europe                    | Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Isle of Man, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom |
-    | Middle East               | Afghanistan, Armenia, Azerbaijan, Bahrain, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Syria, United Arab Emirates, Yemen |
-    | North America             | Canada, Mexico, United States of America |
-    | North Asia                | Mongolia, Russia |
-    | Oceania                   | American Samoa, Australia, Cook Islands, Fiji, Guam, Kiribati, Marshall Islands, Micronesia, Nauru, New Caledonia, New Zealand, Niue, Northern Mariana Islands, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu |
-    | South America             | Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela |
-    | South Asia                | Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka |
-    | Southeast Asia            | Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor Leste, Vietnam |
+| REGION                    | COUNTRIES |
+|---------------------------|-----------|
+| Africa                    | Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe |
+| Caribbean Central America | Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, British Virgin Islands, Cayman Islands, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, US Virgin Islands |
+| Central Asia              | Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan |
+| East Asia                 | China, Hong Kong, Japan, Macao, North Korea, South Korea, Taiwan |
+| Europe                    | Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Gibraltar, Greece, Hungary, Iceland, Ireland, Isle of Man, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom |
+| Middle East               | Afghanistan, Armenia, Azerbaijan, Bahrain, Georgia, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Pakistan, Palestine, Qatar, Saudi Arabia, Syria, United Arab Emirates, Yemen |
+| North America             | Canada, Mexico, United States of America |
+| North Asia                | Mongolia, Russia |
+| Oceania                   | American Samoa, Australia, Cook Islands, Fiji, Guam, Kiribati, Marshall Islands, Micronesia, Nauru, New Caledonia, New Zealand, Niue, Northern Mariana Islands, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu |
+| South America             | Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela |
+| South Asia                | Afghanistan, Bangladesh, Bhutan, India, Nepal, Pakistan, Sri Lanka |
+| Southeast Asia            | Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor Leste, Vietnam |
 
 </details>
 
@@ -112,11 +112,11 @@ Within each regional directory, detailed descriptions of model updates and revis
 | Version   | Release Notes |
 | --------- | -------------- |
 | [v2026.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2026.0.0) | Official GEM 2026 Global Release. Major update. See summary of changes in [CHANGELOG.md](./CHANGELOG.md). |
-| `v2025.0.0` | Internal release adding updated country models |
+| [v2025.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2025.0.0) | Internal release adding updated country models |
 | [v2023.1.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2023.1.0) | Official June 2023 GEM Global Risk Model release. Updates include taxonomy consistency improvements, boundary-name revisions, exposure spatially disaggregated for many countries. |
 | [v2023.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2023.0.0) | Minor revision relative to `v2022.0.0`, introducing population distribution across day, night, and transit periods, together with a small number of country-specific updates. |
 | [v2022.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2022.0.0) | Major update relative to `v2018.0.0`, including 2021 building counts and replacement costs, revised dwelling and establishment counts, mapping schemes, floor areas, story counts, building code levels, expected ductility levels, and improvements to the spatial distribution of non-residential exposure. |
-| `v2018.0.0` | Original version released as part of the 2018 Global Risk Model. |
+| [v2018.0.0](https://github.com/gem/global_exposure_model/Exposure/tree/v2018.0.0) | Original version released as part of the 2018 Global Risk Model. |
 
 
 ## 🌟 Contributors
@@ -138,23 +138,21 @@ Yepes-Estrada, C., Baiguera, M., Calderon, A., Caruso, M., Costa, C., Gonzalez, 
 
 ### Regional and national model references
 
-- Africa: Paul et al. (2022)[^12]
-- Australia: Dunford and Power (2014)[^6]
-- Canada: Journeay et al. (2022)[^8]
-- Central America: Calderon et al. (2022)[^3]
-- Central Asia: Pittore et al. (2020)[^13]
-- China: Ma et al. (2021)[^9]
-- Costa Rica: Calderon et al. (2019)[^2]
-- Europe: Crowley et al. (2020)[^4]
-- GED4GEM: Gamba et al. (2012)[^7]
-- India: Rao et al. (2020)[^14]
-- Iran: Motamed at al. (2019)[^10]
-- Middle East: Dabbeek and Silva (2020)[^5]
-- New Zealand: Abbott et al. (2020)[^1]
-- Pacific Island Countries: PCRAFI initiative[^11]
-- South America: Yepes-Estrada et al. (2017)[^17]
-- Turkey: Rao et al. (2021)[^15]
-- United States: USACE (2023)[^16]
+- Africa: Paul et al. (2022)[^10]
+- Australia: Dunford and Power (2014)[^5]
+- Canada: Journeay et al. (2022)[^7]
+- Central America: Calderon et al. (2022)[^2]
+- Central Asia: Pittore et al. (2020)[^11]
+- China: Ma et al. (2021)[^8]
+- Costa Rica: Calderon et al. (2019)[^1]
+- Europe: Crowley et al. (2020)[^3]
+- GED4GEM: Gamba et al. (2012)[^6]
+- India: Rao et al. (2020)[^12]
+- Iran: Motamed at al. (2019)[^9]
+- Middle East: Dabbeek and Silva (2020)[^4]
+- South America: Yepes-Estrada et al. (2017)[^15]
+- Turkey: Rao et al. (2021)[^13]
+- United States: FEMA (2024)[^14]
 
 ## ⚖️ License
 
@@ -244,20 +242,18 @@ Definitions and descriptions of the columns in the exposure summary tables.
 
 ## References:
 
-[^1]: Abbott, E., Horspool, N., Gerstenberger, M., Huso, R., Van Houtte, C., McVerry, G., Canessa, S. (2020). Challenges and opportunities in New Zealand seismic hazard and risk modelling using OpenQuake. Earthquake Spectra, 36, 210-225. doi:10.1177/8755293020966338.
-[^2]: Calderon, A., Silva, V. (2019). Probabilistic seismic vulnerability and loss assessment of the residential building stock in Costa Rica. Bulletin of Earthquake Engineering 17, 1257–1284. Doi: 10.1007/s10518-018-0499-1.
-[^3]: Calderón, A., Silva V, Avilés, M., Méndez, R., Castillo, R., Gil, J., López, M. (2022). Toward a uniform earthquake loss model across Central America. Earthquake Spectra, 38(1):178-199. doi:10.1177/87552930211043894.
-[^4]: Crowley, H., Despotaki, V., Rodrigues, D., Silva, V., Toma-Danila, D., Riga, E., Karatzetzou, A., Fotopoulou, S., Zugic, Z., Sousa, L., Ozcebe, S., Gamba, P. (2020). Exposure model for European seismic risk assessment. Earthquake Spectra, 36(1_suppl), 252–273. doi: 10.1177/8755293020919429.
-[^5]: Dabbeek, J., Silva, V. (2020). Modelling the residential building stock in the Middle East for multi-hazard risk assessment. Natural Hazards 100, 781–810. doi: 10.1007/s11069-019-03842-7.
-[^6]: Dunford, M., Power, L. (2014). National Exposure Information System (NEXIS) Building Exposure - Statistical Area Level 1 (SA1). Geoscience Australia, Canberra, Australia. doi: 10.4225/25/5420C7F537B15.
-[^7]: Gamba, P., Cavalca, D., Jaiswal, K., Huyck, C., Crowley, H. (2012). The GED4GEM Project: Development of a Global Exposure Database for the Global Earthquake Model Initiative. Proceedings of the 15th World Conference on Earthquake Engineering, Lisbon, Portugal.
-[^8]: Journeay, M., LeSueur, P., Chow, W., Wagner, C.L. (2022). Physical exposure to natural hazards in Canada: An overview of methods and findings. GEOLOGICAL SURVEY OF CANADA, OPEN FILE 8892. Available at https://doi.org/10.4095/330012.
-[^9]: Ma, J., Rao, A., Silva, V., Lui, K., Wang, M. (2021). A township-level exposure model of residential buildings for mainland China. Nat Hazards 108, 389–423. https://doi.org/10.1007/s11069-021-04689-7
-[^10]: Motamed, H., Calderon, A., Silva, V., Costa, C. (2019). Development of a probabilistic earthquake loss model for Iran. Bulletin of Earthquake Engineering 17, 1795–1823. doi: 10.1007/s10518-018-0515-5.
-[^11]: [Pacific: Catastrophe Risk Assessment and Financing Initiative - PCRAFI](https://pcric.org/)
-[^12]: Paul, N., Silva, V., Amo-Oduro, D. (2022). Development of a uniform exposure model for the African continent for use in disaster risk assessment. International Journal of Disaster Risk Reduction, Volume 71, ISSN 2212-4209. doi: 10.1016/j.ijdrr.2022.102823.
-[^13]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
-[^14]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
-[^15]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
-[^16]: [U.S. Army Corps of Engineers (2023). National Structure Inventory (2023).](https://www.hec.usace.army.mil/confluence/nsi/)
-[^17]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.
+[^1]: Calderon, A., Silva, V. (2019). Probabilistic seismic vulnerability and loss assessment of the residential building stock in Costa Rica. Bulletin of Earthquake Engineering 17, 1257–1284. Doi: 10.1007/s10518-018-0499-1.
+[^2]: Calderón, A., Silva V, Avilés, M., Méndez, R., Castillo, R., Gil, J., López, M. (2022). Toward a uniform earthquake loss model across Central America. Earthquake Spectra, 38(1):178-199. doi:10.1177/87552930211043894.
+[^3]: Crowley, H., Despotaki, V., Rodrigues, D., Silva, V., Toma-Danila, D., Riga, E., Karatzetzou, A., Fotopoulou, S., Zugic, Z., Sousa, L., Ozcebe, S., Gamba, P. (2020). Exposure model for European seismic risk assessment. Earthquake Spectra, 36(1_suppl), 252–273. doi: 10.1177/8755293020919429.
+[^4]: Dabbeek, J., Silva, V. (2020). Modelling the residential building stock in the Middle East for multi-hazard risk assessment. Natural Hazards 100, 781–810. doi: 10.1007/s11069-019-03842-7.
+[^5]: Dunford, M., Power, L. (2014). National Exposure Information System (NEXIS) Building Exposure - Statistical Area Level 1 (SA1). Geoscience Australia, Canberra, Australia. doi: 10.4225/25/5420C7F537B15.
+[^6]: Gamba, P., Cavalca, D., Jaiswal, K., Huyck, C., Crowley, H. (2012). The GED4GEM Project: Development of a Global Exposure Database for the Global Earthquake Model Initiative. Proceedings of the 15th World Conference on Earthquake Engineering, Lisbon, Portugal.
+[^7]: Journeay, M., LeSueur, P., Chow, W., Wagner, C.L. (2022). Physical exposure to natural hazards in Canada: An overview of methods and findings. GEOLOGICAL SURVEY OF CANADA, OPEN FILE 8892. Available at https://doi.org/10.4095/330012.
+[^8]: Ma, J., Rao, A., Silva, V., Lui, K., Wang, M. (2021). A township-level exposure model of residential buildings for mainland China. Nat Hazards 108, 389–423. https://doi.org/10.1007/s11069-021-04689-7
+[^9]: Motamed, H., Calderon, A., Silva, V., Costa, C. (2019). Development of a probabilistic earthquake loss model for Iran. Bulletin of Earthquake Engineering 17, 1795–1823. doi: 10.1007/s10518-018-0515-5.
+[^10]: Paul, N., Silva, V., Amo-Oduro, D. (2022). Development of a uniform exposure model for the African continent for use in disaster risk assessment. International Journal of Disaster Risk Reduction, Volume 71, ISSN 2212-4209. doi: 10.1016/j.ijdrr.2022.102823.
+[^11]: Pittore, M., Haas, M., Silva, V. (2020). Variable resolution probabilistic modelling of residential exposure and vulnerability for risk applications. Earthquake Spectra, 36(1_suppl), 321-344. doi:10.1177/8755293020951582
+[^12]: Rao, A., Dutta, D., Kalita, P., Ackerley, N., Silva, V., Raghunandan, M., Ghosh, J., Ghosh, S., Brzev, S., Dasgupta, K. (2020). Probabilistic seismic risk assessment of India. Earthquake Spectra, 36(1_suppl), 345–371. doi: 10.1177/8755293020957374.
+[^13]: Rao, A., Calderón, A., Silva, V., Martins, L., Paul, N. (2021). Earthquake Risk Assessment and Retrofit Scenarios for Turkey. Report for the World Bank.
+[^14]: Federal Emergency Management Agency. Hazus 6.1 Baseline Inventory (2024)
+[^15]: Yepes-Estrada, C., Silva, V., Valcárcel J, Acevedo, A., Tarque, N., Hube, M., Coronel, G., Santamaría, H. (2017). Modelling the Residential Building Inventory in South America for Seismic Risk Assessment. Earthquake Spectra, 33(1), 299-322. doi :10.1193/101915eqs155dp.
